@@ -1,2 +1,2 @@
 # MyFiles
-Used to store some import files or apps
+Used to store some important files or apps
