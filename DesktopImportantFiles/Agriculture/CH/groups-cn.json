@@ -1,0 +1,1161 @@
+{
+    "name": "组", 
+    "children": [
+        {
+            "name": "地主", 
+            "children": [
+                {
+                    "name": "缺席地主", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "分类单元", 
+            "children": [
+                {
+                    "name": "种类(类群)", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "属", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "亚种", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "王国(类群)", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "类(类群)", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "订单(类群)", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "家庭(类群)", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "门", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "门", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "亚科", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "亚目", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "子类", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "物种(类群)", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "infraclass", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "域(类群)", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "superdivision", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "亚门", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "总目", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "infraorder", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "总科", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "新分类群", 
+                    "children": [
+                        {
+                            "name": "新类", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "新家庭", 
+                            "children": [
+                                {
+                                    "name": "新属", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "新订单", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "新的亚科", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "新的亚属", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "新亚种", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "新品种", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "素食者", 
+            "children": [ ]
+        }, 
+        {
+            "name": "成群", 
+            "children": [ ]
+        }, 
+        {
+            "name": "个人", 
+            "children": [
+                {
+                    "name": "病人", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "领导人", 
+            "children": [
+                {
+                    "name": "首领", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "企业家", 
+            "children": [ ]
+        }, 
+        {
+            "name": "的身体", 
+            "children": [
+                {
+                    "name": "联盟", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "佣金", 
+                    "children": [
+                        {
+                            "name": "南太平洋委员会", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "欧洲委员会", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "管理机构", 
+                    "children": [
+                        {
+                            "name": "委员会", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "公共机构", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "有关", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "委员会", 
+            "children": [
+                {
+                    "name": "小组委员会", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "社区", 
+            "children": [
+                {
+                    "name": "ujamaa村庄", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "渔业社区", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "农村社区", 
+                    "children": [
+                        {
+                            "name": "村庄", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "公社", 
+                            "children": [
+                                {
+                                    "name": "农场", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "当地社区", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "储蓄组", 
+            "children": [ ]
+        }, 
+        {
+            "name": "任务部队", 
+            "children": [ ]
+        }, 
+        {
+            "name": "工会", 
+            "children": [
+                {
+                    "name": "工会", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "经济联盟", 
+                    "children": [
+                        {
+                            "name": "海关工会", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "共同市场", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "租户", 
+            "children": [
+                {
+                    "name": "租赁", 
+                    "children": [
+                        {
+                            "name": "农场租赁", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土地租赁", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "佃农", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "土地租户", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "人口", 
+            "children": [
+                {
+                    "name": "祖先", 
+                    "children": [
+                        {
+                            "name": "父母", 
+                            "children": [
+                                {
+                                    "name": "父亲", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "母亲", 
+                                    "children": [
+                                        {
+                                            "name": "大坝(母亲)", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "coancestry", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "血统", 
+                    "children": [
+                        {
+                            "name": "血统的土地", 
+                            "children": [
+                                {
+                                    "name": "牧师的土地", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "神圣的树林", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "育种行", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "植物种群", 
+                    "children": [
+                        {
+                            "name": "森林站", 
+                            "children": [
+                                {
+                                    "name": "异龄站", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "森林保护区", 
+                                    "children": [
+                                        {
+                                            "name": "国家森林", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "混交林站", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "甚至在站", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "种子站", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "树类", 
+                            "children": [
+                                {
+                                    "name": "皇冠类", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "茎类", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "主导的树", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "填料的树木", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "+树", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "高度类(林业)", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "后代", 
+                    "children": [
+                        {
+                            "name": "兄弟姐妹", 
+                            "children": [
+                                {
+                                    "name": "兄弟", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "四胞胎", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "姐妹", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "三胞胎", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "双胞胎", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "人类的后代", 
+                            "children": [
+                                {
+                                    "name": "女儿", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "儿子", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "动物的后代", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "植物的后代", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "突变体", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "纯粹的行", 
+                            "children": [
+                                {
+                                    "name": "克隆", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "变体", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "杂交", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "混合动力车", 
+                            "children": [
+                                {
+                                    "name": "F1杂交", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "F2混合动力车", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "F3混合动力车", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "体细胞杂交", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "自交系", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "自", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "生物群", 
+                    "children": [
+                        {
+                            "name": "动物", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "植物区系", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "生物型", 
+                    "children": [
+                        {
+                            "name": "致病型", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生理上的比赛", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "人口", 
+                    "children": [
+                        {
+                            "name": "劳动人口", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "农村人口", 
+                            "children": [
+                                {
+                                    "name": "农业人口", 
+                                    "children": [
+                                        {
+                                            "name": "农业工人", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "农民", 
+                                            "children": [
+                                                {
+                                                    "name": "城市的农民", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "女性农民", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "小农", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "当地社区", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "民族", 
+                            "children": [
+                                {
+                                    "name": "原住民", 
+                                    "children": [
+                                        {
+                                            "name": "父系", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "母系", 
+                                            "children": [
+                                                {
+                                                    "name": "孤儿土地权利", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "土地继承权", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "部族", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "非原住民", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "城市人口", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "动物种群", 
+                    "children": [
+                        {
+                            "name": "牛群", 
+                            "children": [
+                                {
+                                    "name": "牛肉牛群", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "奶牛", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "羊群", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "野生种群", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "蜂群", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "复合种群", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "利益相关者", 
+            "children": [ ]
+        }, 
+        {
+            "name": "集合", 
+            "children": [
+                {
+                    "name": "博物馆", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "档案", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "种质的银行", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "种质资源收集", 
+                    "children": [
+                        {
+                            "name": "种子集合", 
+                            "children": [
+                                {
+                                    "name": "土壤种子库", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "动物集合", 
+                    "children": [
+                        {
+                            "name": "动物园", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "植物集合", 
+                    "children": [
+                        {
+                            "name": "植物园", 
+                            "children": [
+                                {
+                                    "name": "arboreta", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "植物标本室", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "bambusetum", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "palmetum", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "工程师", 
+            "children": [ ]
+        }, 
+        {
+            "name": "消防员", 
+            "children": [ ]
+        }, 
+        {
+            "name": "渔民", 
+            "children": [ ]
+        }, 
+        {
+            "name": "林业工作者", 
+            "children": [ ]
+        }, 
+        {
+            "name": "家庭主妇", 
+            "children": [ ]
+        }, 
+        {
+            "name": "利益集团", 
+            "children": [
+                {
+                    "name": "技术的社会", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "员工协会", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "雇主组织", 
+                    "children": [
+                        {
+                            "name": "失业工人的组织", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "压力集团", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "乡村俱乐部", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "经济利益集团", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "森林的用户组", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "非正式组织", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "营销集团", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "自然资源的用户组", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "政党", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "家禽生产者团体", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生产组织", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "特殊利益集团", 
+                    "children": [
+                        {
+                            "name": "亲和力组", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "水用户组", 
+                    "children": [
+                        {
+                            "name": "水用户协会", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "工会", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "家长教师组", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "经理", 
+            "children": [
+                {
+                    "name": "农场经理", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "森林经理", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "商人", 
+            "children": [ ]
+        }, 
+        {
+            "name": "科学家们", 
+            "children": [
+                {
+                    "name": "动物饲养员", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生物学家", 
+                    "children": [
+                        {
+                            "name": "遗传学家", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "动物学家", 
+                            "children": [
+                                {
+                                    "name": "acarologists", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "昆虫学家", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "爬虫类", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "mammalogists", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "protozoologists", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "鱼类学家", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "植物学家", 
+                            "children": [
+                                {
+                                    "name": "agrostologists", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "苔藓", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "真菌学家", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "植物病理学家", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "微生物学家", 
+                            "children": [
+                                {
+                                    "name": "细菌学家", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "病毒学家", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "解剖学家", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "细胞学者", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "组织学家", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "寄生虫学家", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "植物育种者", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生态学家", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "化学家", 
+                    "children": [
+                        {
+                            "name": "生物化学家", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "气候学家", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "地理学家", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "地质学家", 
+                    "children": [
+                        {
+                            "name": "地貌学家", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "矿物学家", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "岩石学家", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "土壤科学家", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "水文学家", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "气象学家", 
+                    "children": [
+                        {
+                            "name": "agrometeorologists", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "海洋学家", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "物理学家", 
+                    "children": [
+                        {
+                            "name": "地球物理学家", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "生理学家", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "分类学家", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "古生物学家", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "地震学家", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "农学家", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "社会工作者", 
+            "children": [ ]
+        }, 
+        {
+            "name": "学生", 
+            "children": [
+                {
+                    "name": "本科生", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "老师", 
+            "children": [ ]
+        }, 
+        {
+            "name": "兽医", 
+            "children": [ ]
+        }, 
+        {
+            "name": "社会群体", 
+            "children": [
+                {
+                    "name": "残疾人", 
+                    "children": [
+                        {
+                            "name": "农村残疾人", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "工人阶级", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "家庭", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "农民", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "少数民族", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "难民", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "宗教团体", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "消费者", 
+            "children": [ ]
+        }, 
+        {
+            "name": "社会学家", 
+            "children": [
+                {
+                    "name": "农业社会学家", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "经济学家", 
+            "children": [ ]
+        }, 
+        {
+            "name": "医生", 
+            "children": [ ]
+        }, 
+        {
+            "name": "咨询人员", 
+            "children": [ ]
+        }, 
+        {
+            "name": "医疗辅助设备", 
+            "children": [ ]
+        }, 
+        {
+            "name": "街头小贩", 
+            "children": [ ]
+        }, 
+        {
+            "name": "低收入群体", 
+            "children": [ ]
+        }, 
+        {
+            "name": "自助小组", 
+            "children": [ ]
+        }, 
+        {
+            "name": "地方组织", 
+            "children": [ ]
+        }, 
+        {
+            "name": "寮屋居民", 
+            "children": [ ]
+        }
+    ]
+}
+鍦ㄧ嚎宸ュ叿 鐢?寮�婧愪腑鍥?鎵�鏈?| @鏂版氮

@@ -1,0 +1,262 @@
+{
+    "name": "因素", 
+    "children": [
+        {
+            "name": "网站的因素", 
+            "children": [ ]
+        }, 
+        {
+            "name": "有害因素", 
+            "children": [ ]
+        }, 
+        {
+            "name": "生产要素", 
+            "children": [
+                {
+                    "name": "资本价值(土地)", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "企业家精神", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "工效学因素", 
+            "children": [ ]
+        }, 
+        {
+            "name": "产量因素", 
+            "children": [ ]
+        }, 
+        {
+            "name": "风险因素", 
+            "children": [ ]
+        }, 
+        {
+            "name": "文化因素", 
+            "children": [ ]
+        }, 
+        {
+            "name": "环境因素", 
+            "children": [
+                {
+                    "name": "土壤因素", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生态因子", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "气候因素", 
+            "children": [
+                {
+                    "name": "气象因素", 
+                    "children": [
+                        {
+                            "name": "云", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "露水", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "降水", 
+                            "children": [
+                                {
+                                    "name": "冰雹", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "水文气候学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "人工降雨", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "雨", 
+                                    "children": [
+                                        {
+                                            "name": "雨夹雪", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "暴雨", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "模拟降雨", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "雪", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "酸雨", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "霜", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "雾", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "大气压力", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "风", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "心理因素", 
+            "children": [ ]
+        }, 
+        {
+            "name": "免疫因素", 
+            "children": [
+                {
+                    "name": "免疫球蛋白", 
+                    "children": [
+                        {
+                            "name": "gammaglobulins", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "白细胞介素", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生物反应修饰符", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "免疫复合物", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "补充(血液)", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "细胞因子", 
+                    "children": [
+                        {
+                            "name": "集落刺激因子", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "淋巴因子", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "肿瘤坏死因子", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "monokines", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "抗原", 
+                    "children": [
+                        {
+                            "name": "自身抗原", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "细菌抗原", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "血型抗原", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "真菌抗原", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "肿瘤抗原", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "病毒抗原", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "半抗原", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "结核菌素", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "过敏原", 
+                            "children": [
+                                {
+                                    "name": "布鲁氏菌素", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "重组抗原", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "抗体", 
+                    "children": [
+                        {
+                            "name": "多克隆抗体", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "单克隆抗体", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "凝集素", 
+                    "children": [
+                        {
+                            "name": "血凝素", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "免疫血清", 
+                    "children": [ ]
+                }
+            ]
+        }
+    ]
+}

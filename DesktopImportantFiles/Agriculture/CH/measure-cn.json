@@ -1,0 +1,940 @@
+{
+    "name": "测量", 
+    "children": [
+        {
+            "name": "尺寸", 
+            "children": [
+                {
+                    "name": "领土", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "身体测量", 
+                    "children": [
+                        {
+                            "name": "背膘厚度", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "皮肤褶皱厚度", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "体型", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "身体表面积", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "高度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "深度", 
+                    "children": [
+                        {
+                            "name": "播种深度", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "播种深度", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "长度", 
+                    "children": [
+                        {
+                            "name": "阀杆的长度", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "根的长度", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "大小", 
+                    "children": [
+                        {
+                            "name": "颗粒大小", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "厚度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "容积", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "宽度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "直径", 
+                    "children": [
+                        {
+                            "name": "胸高直径", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "面积", 
+                    "children": [
+                        {
+                            "name": "土地面积", 
+                            "children": [
+                                {
+                                    "name": "边界", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "农场面积", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "叶面积", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "表面积", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "空间", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "压力", 
+            "children": [
+                {
+                    "name": "渗透压", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "静水压力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "蒸汽压力", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "可接受的每日摄入量", 
+            "children": [ ]
+        }, 
+        {
+            "name": "日晒", 
+            "children": [
+                {
+                    "name": "反照率(太阳能)", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "水分含量", 
+            "children": [
+                {
+                    "name": "种子含水量", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "放养密度", 
+            "children": [ ]
+        }, 
+        {
+            "name": "立木价值价值", 
+            "children": [ ]
+        }, 
+        {
+            "name": "穿衣比例", 
+            "children": [ ]
+        }, 
+        {
+            "name": "体细胞数", 
+            "children": [ ]
+        }, 
+        {
+            "name": "采集频率", 
+            "children": [ ]
+        }, 
+        {
+            "name": "年龄的差异", 
+            "children": [ ]
+        }, 
+        {
+            "name": "性别比例", 
+            "children": [ ]
+        }, 
+        {
+            "name": "质量", 
+            "children": [ ]
+        }, 
+        {
+            "name": "经济价值", 
+            "children": [
+                {
+                    "name": "收益成本比", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "州一级的性能", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "经济阈值", 
+            "children": [ ]
+        }, 
+        {
+            "name": "最大残留限量", 
+            "children": [ ]
+        }, 
+        {
+            "name": "灌溉利率", 
+            "children": [ ]
+        }, 
+        {
+            "name": "glycaemia", 
+            "children": [ ]
+        }, 
+        {
+            "name": "育种值", 
+            "children": [ ]
+        }, 
+        {
+            "name": "选择指数", 
+            "children": [ ]
+        }, 
+        {
+            "name": "密度", 
+            "children": [
+                {
+                    "name": "木材密度", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "沸点", 
+            "children": [ ]
+        }, 
+        {
+            "name": "重量", 
+            "children": [
+                {
+                    "name": "分子量", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "体重", 
+                    "children": [
+                        {
+                            "name": "屠宰体重", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "瘦体重", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "出生体重", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "断奶体重", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "垃圾重量", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "比重", 
+            "children": [ ]
+        }, 
+        {
+            "name": "电势", 
+            "children": [ ]
+        }, 
+        {
+            "name": "冰点", 
+            "children": [ ]
+        }, 
+        {
+            "name": "速度", 
+            "children": [
+                {
+                    "name": "风速", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "速度", 
+            "children": [
+                {
+                    "name": "转速", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "风速", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "摩擦系数", 
+            "children": [ ]
+        }, 
+        {
+            "name": "熔点", 
+            "children": [ ]
+        }, 
+        {
+            "name": "折射率", 
+            "children": [ ]
+        }, 
+        {
+            "name": "pH值", 
+            "children": [
+                {
+                    "name": "等电点", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "血液pH值", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "土壤pH值", 
+                    "children": [
+                        {
+                            "name": "根际土壤pH值", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "氧化还原电位", 
+            "children": [ ]
+        }, 
+        {
+            "name": "温度", 
+            "children": [
+                {
+                    "name": "体温", 
+                    "children": [
+                        {
+                            "name": "高热", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "体温过低", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "直肠温度", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "皮肤温度", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "热", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "空气温度", 
+                    "children": [
+                        {
+                            "name": "环境空气温度", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "冷", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "环境温度", 
+                    "children": [
+                        {
+                            "name": "环境水温度", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "土壤温度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "根温度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "水的温度", 
+                    "children": [
+                        {
+                            "name": "环境水温度", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "大气温度", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "热容量", 
+            "children": [ ]
+        }, 
+        {
+            "name": "皂化值", 
+            "children": [ ]
+        }, 
+        {
+            "name": "离子交换容量", 
+            "children": [
+                {
+                    "name": "阴离子交换能力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "阳离子交换能力", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "承载能力", 
+            "children": [ ]
+        }, 
+        {
+            "name": "土壤水势", 
+            "children": [
+                {
+                    "name": "液压潜在(土壤)", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "基质势(土壤)", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "土壤水分常数", 
+            "children": [
+                {
+                    "name": "田间持水量", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "凋萎点", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "高度", 
+            "children": [ ]
+        }, 
+        {
+            "name": "染色体数目", 
+            "children": [
+                {
+                    "name": "diha倍性", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "ploidy", 
+            "children": [
+                {
+                    "name": "di单倍体", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "二倍性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "haploidy", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "多倍性", 
+                    "children": [
+                        {
+                            "name": "诱导多倍体", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "四倍体性", 
+                            "children": [
+                                {
+                                    "name": "autotetraploidy", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "三倍性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "六倍性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "alloploidy", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "非整倍性", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "叶面积指数", 
+            "children": [ ]
+        }, 
+        {
+            "name": "流量", 
+            "children": [ ]
+        }, 
+        {
+            "name": "湿度", 
+            "children": [
+                {
+                    "name": "相对湿度", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "利率", 
+            "children": [
+                {
+                    "name": "优惠利率", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "纬度", 
+            "children": [ ]
+        }, 
+        {
+            "name": "牲畜数量", 
+            "children": [ ]
+        }, 
+        {
+            "name": "人口密度", 
+            "children": [
+                {
+                    "name": "人口过剩", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "价格", 
+            "children": [
+                {
+                    "name": "食品价格", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "消费者价格指数", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "控制价格", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "最大的价格", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "最低价格", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "价格形成", 
+                    "children": [
+                        {
+                            "name": "价格波动", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "价格弹性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "生产者物价指数", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "批发价格", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "农产品价格", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "市场价格", 
+                    "children": [
+                        {
+                            "name": "零售价格", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "价格指数", 
+            "children": [ ]
+        }, 
+        {
+            "name": "定量供应", 
+            "children": [
+                {
+                    "name": "繁殖的口粮", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "增肥的口粮", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "完成的口粮", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "维护口粮", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "起动器的口粮", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "基底的口粮", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "每日的口粮", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "推荐膳食津贴", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "播种率", 
+            "children": [ ]
+        }, 
+        {
+            "name": "间距", 
+            "children": [ ]
+        }, 
+        {
+            "name": "水平衡", 
+            "children": [
+                {
+                    "name": "土壤水分平衡", 
+                    "children": [
+                        {
+                            "name": "土壤保水性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土壤水分含量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土壤水分亏缺", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "径流", 
+                            "children": [
+                                {
+                                    "name": "地下径流", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "土壤水分蒸发蒸腾损失总量", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "降水赤字", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "受胎率", 
+            "children": [ ]
+        }, 
+        {
+            "name": "心率", 
+            "children": [ ]
+        }, 
+        {
+            "name": "应用利率", 
+            "children": [
+                {
+                    "name": "剂量", 
+                    "children": [
+                        {
+                            "name": "半数致死量(LD50)", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "致死剂量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "过量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "半数有效量(ED50)", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "增长速度", 
+            "children": [ ]
+        }, 
+        {
+            "name": "钓鱼的努力", 
+            "children": [ ]
+        }, 
+        {
+            "name": "垃圾的大小", 
+            "children": [ ]
+        }, 
+        {
+            "name": "水势", 
+            "children": [
+                {
+                    "name": "木质部水势", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "根水势", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "叶水势", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "渗透势", 
+            "children": [ ]
+        }, 
+        {
+            "name": "组大小", 
+            "children": [ ]
+        }, 
+        {
+            "name": "收获指数", 
+            "children": [ ]
+        }, 
+        {
+            "name": "经济损害水平", 
+            "children": [ ]
+        }, 
+        {
+            "name": "出水量", 
+            "children": [ ]
+        }, 
+        {
+            "name": "哺乳期数量", 
+            "children": [ ]
+        }, 
+        {
+            "name": "汇率", 
+            "children": [ ]
+        }, 
+        {
+            "name": "农场数量", 
+            "children": [ ]
+        }, 
+        {
+            "name": "乘数", 
+            "children": [ ]
+        }, 
+        {
+            "name": "水位", 
+            "children": [
+                {
+                    "name": "低水", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "高水", 
+                    "children": [
+                        {
+                            "name": "洪水", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "呼吸商", 
+            "children": [ ]
+        }, 
+        {
+            "name": "海平面", 
+            "children": [ ]
+        }, 
+        {
+            "name": "初级生产力", 
+            "children": [
+                {
+                    "name": "净初级生产力", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "呼吸率", 
+            "children": [ ]
+        }, 
+        {
+            "name": "土地当量比", 
+            "children": [ ]
+        }, 
+        {
+            "name": "指标", 
+            "children": [
+                {
+                    "name": "生态指标", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生物指标", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "经济指标", 
+                    "children": [
+                        {
+                            "name": "国民生产总值", 
+                            "children": [
+                                {
+                                    "name": "农业生产总值", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "国内生产", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "经济增长率", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "收益差额", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "抚养比率", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "社会指标", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "发展指标", 
+                    "children": [
+                        {
+                            "name": "可持续发展目标", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "年发展目标", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "苗率", 
+            "children": [ ]
+        }, 
+        {
+            "name": "植被指数", 
+            "children": [ ]
+        }
+    ]
+}

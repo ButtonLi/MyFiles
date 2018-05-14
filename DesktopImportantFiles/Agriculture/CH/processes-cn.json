@@ -1,0 +1,287 @@
+{
+    "name": "流程", 
+    "children": [
+        {
+            "name": "进化", 
+            "children": [
+                {
+                    "name": "种系发生", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "生物转化", 
+            "children": [ ]
+        }, 
+        {
+            "name": "同化", 
+            "children": [ ]
+        }, 
+        {
+            "name": "连续的过程", 
+            "children": [ ]
+        }, 
+        {
+            "name": "不连续的过程", 
+            "children": [ ]
+        }, 
+        {
+            "name": "抑制", 
+            "children": [
+                {
+                    "name": "生长抑制作用", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "光抑制", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "大气沉积", 
+            "children": [ ]
+        }, 
+        {
+            "name": "组织变革", 
+            "children": [ ]
+        }, 
+        {
+            "name": "生物过程", 
+            "children": [
+                {
+                    "name": "细胞分裂", 
+                    "children": [
+                        {
+                            "name": "无丝分裂", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "减数分裂", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "有丝分裂", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "核分裂", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "防御机制", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "自然杂交", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "遗传过程", 
+            "children": [
+                {
+                    "name": "克隆", 
+                    "children": [
+                        {
+                            "name": "分子克隆", 
+                            "children": [
+                                {
+                                    "name": "基因克隆", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "DNA克隆", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "种族隔离", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "遗传转化", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "基因流", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "染色体配对", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "复合", 
+                    "children": [
+                        {
+                            "name": "交叉", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "诱变", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "遗传变异", 
+                    "children": [
+                        {
+                            "name": "体细胞无性系变异", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "渐渗现象", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "遗传多态性", 
+                            "children": [
+                                {
+                                    "name": "RFLP", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "克隆变异", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "复制", 
+                    "children": [
+                        {
+                            "name": "DNA复制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "病毒复制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "基因复制", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "基因表达", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "转录", 
+                    "children": [
+                        {
+                            "name": "DNA转录", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "基因转录", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "反转录", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "基因转导", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "遗传差异", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "外源性物质的生物转化", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "遗传漂变", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "转变", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "生化过程", 
+            "children": [
+                {
+                    "name": "DNA乳沟", 
+                    "children": [
+                        {
+                            "name": "染色体操作", 
+                            "children": [
+                                {
+                                    "name": "诱导多倍体", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "基因融合", 
+                                    "children": [
+                                        {
+                                            "name": "混合蛋白质", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "基因换位", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "固氮作用", 
+                    "children": [
+                        {
+                            "name": "生物固氮作用", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "营养转换", 
+            "children": [ ]
+        }, 
+        {
+            "name": "生理过程", 
+            "children": [
+                {
+                    "name": "植物生理过程", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "细胞生理过程", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "物理化学过程", 
+            "children": [ ]
+        }, 
+        {
+            "name": "碳汇", 
+            "children": [ ]
+        }
+    ]
+}

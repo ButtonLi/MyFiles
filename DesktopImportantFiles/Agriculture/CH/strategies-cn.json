@@ -1,0 +1,38 @@
+{
+    "name": "策略", 
+    "children": [
+        {
+            "name": "培训策略", 
+            "children": [ ]
+        }, 
+        {
+            "name": "农村的发展策略", 
+            "children": [ ]
+        }, 
+        {
+            "name": "方法", 
+            "children": [
+                {
+                    "name": "生态系统的方法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "基于权利的方法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "扩展的方法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "组的方法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "参与式方法", 
+                    "children": [ ]
+                }
+            ]
+        }
+    ]
+}

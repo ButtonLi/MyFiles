@@ -1,0 +1,335 @@
+{
+    "name": "技术", 
+    "children": [
+        {
+            "name": "祖先的技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "传统技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "生物技术", 
+            "children": [
+                {
+                    "name": "动物生物技术", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "植物生物技术", 
+                    "children": [
+                        {
+                            "name": "生物刺激素", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "空间生物技术", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "适当的技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "技术变革", 
+            "children": [
+                {
+                    "name": "现代化", 
+                    "children": [
+                        {
+                            "name": "机械化", 
+                            "children": [
+                                {
+                                    "name": "农业机械化", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "节约劳动力技术", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "自动化", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "革新", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "食品技术", 
+            "children": [
+                {
+                    "name": "食物保存", 
+                    "children": [
+                        {
+                            "name": "食品辐照", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "用盐水浸泡", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "酸洗", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "盐", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "糖技术", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "食品加工", 
+                    "children": [
+                        {
+                            "name": "面包制作", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "酿造", 
+                            "children": [
+                                {
+                                    "name": "跳来跳去", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "捣碎", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "窑烧", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "黄油制作", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "奶酪制作", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "酿酒", 
+                            "children": [
+                                {
+                                    "name": "香槟酒酿造", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "加糖", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "麦芽制造", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "鱼加工", 
+                            "children": [
+                                {
+                                    "name": "鱼,切片", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "最小的处理(食物)", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "营养改善", 
+                            "children": [
+                                {
+                                    "name": "食物浓缩", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "食物的补充", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "食物强化", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "高压技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "采后技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "计算机应用", 
+            "children": [
+                {
+                    "name": "决策支持", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "新技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "摄影", 
+            "children": [ ]
+        }, 
+        {
+            "name": "酶技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "肥料技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "木材技术", 
+            "children": [
+                {
+                    "name": "木头调节", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "能源技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "生产技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "保护技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "种子技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "教育技术", 
+            "children": [ ]
+        }, 
+        {
+            "name": "资讯及通讯科技(icts)", 
+            "children": [
+                {
+                    "name": "信息技术", 
+                    "children": [
+                        {
+                            "name": "远程信息处理", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "信息技术环境", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "通信技术", 
+                    "children": [
+                        {
+                            "name": "大众媒体", 
+                            "children": [
+                                {
+                                    "name": "电影", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "广播", 
+                                    "children": [
+                                        {
+                                            "name": "农村广播", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "电视", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "出版物", 
+                                    "children": [
+                                        {
+                                            "name": "期刊", 
+                                            "children": [
+                                                {
+                                                    "name": "报纸", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "期刊", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "参考书目", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "电信", 
+                            "children": [
+                                {
+                                    "name": "远程信息处理", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "可视图文系统", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "电子数据传输", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "信号", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "纳米技术", 
+            "children": [ ]
+        }
+    ]
+}

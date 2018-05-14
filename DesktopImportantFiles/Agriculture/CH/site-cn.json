@@ -1,0 +1,78 @@
+{
+    "name": "场地", 
+    "children": [
+        {
+            "name": "实验室", 
+            "children": [
+                {
+                    "name": "兽医实验室", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "砌", 
+            "children": [ ]
+        }, 
+        {
+            "name": "孩子幼儿园", 
+            "children": [ ]
+        }, 
+        {
+            "name": "餐厅", 
+            "children": [ ]
+        }, 
+        {
+            "name": "医院", 
+            "children": [
+                {
+                    "name": "动物医院", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "贮木场", 
+            "children": [ ]
+        }, 
+        {
+            "name": "远程计算中心", 
+            "children": [ ]
+        }, 
+        {
+            "name": "垃圾填埋场", 
+            "children": [
+                {
+                    "name": "垃圾填埋场", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "植物苗圃", 
+            "children": [
+                {
+                    "name": "观赏树木苗圃", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "果树苗圃", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "森林苗圃", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "气象监测站", 
+            "children": [
+                {
+                    "name": "天气的船只", 
+                    "children": [ ]
+                }
+            ]
+        }
+    ]
+}

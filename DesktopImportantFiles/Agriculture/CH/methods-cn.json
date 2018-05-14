@@ -1,0 +1,2311 @@
+{
+    "name": "方法", 
+    "children": [
+        {
+            "name": "畜牧业的方法", 
+            "children": [
+                {
+                    "name": "人工授精", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "障碍饲养", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "蛋孵化", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "粗放饲养", 
+                    "children": [
+                        {
+                            "name": "放养饲养", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "游牧畜牧业", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "饲养场", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "剪切", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "地面饲养", 
+                    "children": [
+                        {
+                            "name": "深垃圾饲养", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "板条地板饲养", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "集约饲养", 
+                    "children": [
+                        {
+                            "name": "电池管理", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "大规模饲养", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "挤奶", 
+                    "children": [
+                        {
+                            "name": "手挤奶", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "越冬", 
+                    "children": [
+                        {
+                            "name": "护饲在室内过冬", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "牲畜过冬", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "惊人的", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "\u201c牧场搬家", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "electroejaculation", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "妊娠诊断", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "直肠触诊", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "修蹄", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "克制的动物", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "马厩", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "强制换羽", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "体外受精", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "发情检测", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "标记", 
+            "children": [
+                {
+                    "name": "纹身", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "应用方法", 
+            "children": [
+                {
+                    "name": "天线的应用", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "喷涂", 
+                    "children": [
+                        {
+                            "name": "采后喷涂", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "低容量喷雾", 
+                            "children": [
+                                {
+                                    "name": "超低容量喷雾", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "静电喷涂", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "广播", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "浸渍", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "除尘", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "叶的应用程序", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "熏蒸", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "合并", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "注射", 
+                    "children": [
+                        {
+                            "name": "树注入", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "静脉注射", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "肌内注射", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "皮下注射", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "接种", 
+                    "children": [
+                        {
+                            "name": "种子接种", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土壤接种", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "根接种", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "根治疗", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "分裂酱", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "起动器的调料", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "局部应用", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "控制释放", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "口服", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "输液", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "育种方法", 
+            "children": [
+                {
+                    "name": "杂交", 
+                    "children": [
+                        {
+                            "name": "回交", 
+                            "children": [
+                                {
+                                    "name": "收敛的改进", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "相互交叉", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "远交", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "杂交", 
+                    "children": [
+                        {
+                            "name": "属间的杂交", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "种间杂交", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "体细胞杂交", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "种内杂交", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "人工杂交", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "近亲繁殖", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "选择", 
+                    "children": [
+                        {
+                            "name": "体外选择", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "轮回选择", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "自然选择", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "选择的物种", 
+                            "children": [
+                                {
+                                    "name": "多样的选择", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "品种选择", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "不同的选择", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "大众的选择", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "个人选择", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "早期的选择", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "人工选择", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "自交", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "异族通婚", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "纯种繁殖", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "杂种优势育种", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "诱变育种", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "分析方法", 
+            "children": [
+                {
+                    "name": "色谱法", 
+                    "children": [
+                        {
+                            "name": "气相色谱法", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "纸色谱法", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "薄层色谱法", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "柱层析法", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "高效液相色谱", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "离子交换色谱法", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "气液色谱法", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "凝胶色谱法", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "电泳", 
+                    "children": [
+                        {
+                            "name": "免疫电泳", 
+                            "children": [
+                                {
+                                    "name": "counterimmunoelectrophoresis", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "等电点聚焦", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "聚丙烯酰胺凝胶电泳", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "凝胶电泳", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "热分析", 
+                    "children": [
+                        {
+                            "name": "示差热分析", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "热重量分析", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "重力测量", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "光谱学", 
+                    "children": [
+                        {
+                            "name": "光谱法", 
+                            "children": [
+                                {
+                                    "name": "质谱分析", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "分光光度法", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "荧光测定法", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "火焰光度法", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "原子吸收光谱法", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "红外分光光度法", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "紫外分光光度法", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "化学发光法", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "核磁共振光谱学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "ESR谱", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "x射线光谱", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "荧光发射光谱", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "感官分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "比色法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "滴定分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "凯氏法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "屈光计检查", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "极谱法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "酶分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "同位素分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "中子活化分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "量热法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "配位滴定法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "导电分析法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "冰点法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "膨胀法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "污秽试验", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "测压法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "浊度测定法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "偏振测定", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "电位法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "saccharimetry", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "比浊法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "定量分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "同位素稀释法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "定性分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "反射计", 
+                    "children": [
+                        {
+                            "name": "时域反射计", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "伏安法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "微", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "钓鱼的方法", 
+            "children": [
+                {
+                    "name": "钓鱼", 
+                    "children": [
+                        {
+                            "name": "fly钓鱼", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "钓鱼线", 
+                    "children": [
+                        {
+                            "name": "恶意破坏", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "延绳钓", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "疏浚(捕捉方法)", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "电捕鱼", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "泵钓鱼", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "炸药捕鱼", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "鱼中毒", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "钓鱼,潜水", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "光钓鱼", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "网络钓鱼", 
+                    "children": [
+                        {
+                            "name": "盛", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "拖网捕鱼", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "锅里钓鱼", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "陷阱钓鱼", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "传统的捕鱼", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "fishing", 
+                    "children": [
+                        {
+                            "name": "休闲钓鱼", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "运动钓鱼", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "辐照", 
+            "children": [
+                {
+                    "name": "辐射灭菌", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "γ辐照", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "紫外线照射", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "x射线照射", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "超声治疗", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "电离辐射治疗", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "食品辐照", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "灌溉方法", 
+            "children": [
+                {
+                    "name": "自动灌溉", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "盆地灌溉", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "畦灌", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "毛细管灌溉", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "沟灌", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "雾灌溉", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "径流灌溉", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "喷灌", 
+                    "children": [
+                        {
+                            "name": "中心枢轴灌溉", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "地下灌溉", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "地面灌溉", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "局部灌溉", 
+                    "children": [
+                        {
+                            "name": "滴灌系统", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "洪水灌溉", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "显微镜", 
+            "children": [
+                {
+                    "name": "电子显微镜", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "扫描显微镜", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "immunofluorescent显微镜", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "模拟", 
+            "children": [
+                {
+                    "name": "作物模型", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "环境建模", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "控制方法", 
+            "children": [
+                {
+                    "name": "采后控制", 
+                    "children": [
+                        {
+                            "name": "存储产品害虫控制", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "生物防治", 
+                    "children": [
+                        {
+                            "name": "经典生物防治", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "无菌昆虫释放", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生物疾病控制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生物防治", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生物除草", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "基因控制", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "化学防治", 
+                    "children": [
+                        {
+                            "name": "化学疾病控制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "化学防治", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "化学除草", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "交配的破坏", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "文化控制", 
+                    "children": [
+                        {
+                            "name": "文化疾病控制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "文化害虫防治", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "文化除草", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "物理控制", 
+                    "children": [
+                        {
+                            "name": "热控制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "耍无赖", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "装袋(害虫控制)", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "网(害虫控制)", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "机械控制", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "疾病控制", 
+                    "children": [
+                        {
+                            "name": "生物疾病控制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "化学疾病控制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "文化疾病控制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "化学预防", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "植物病害控制", 
+                            "children": [
+                                {
+                                    "name": "树手术", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "检疫", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "疾病预防", 
+                            "children": [
+                                {
+                                    "name": "疾病的预防", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "根除疾病", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "法律疾病控制", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "虫害控制", 
+                    "children": [
+                        {
+                            "name": "鸟控制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "病虫害防治", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "螨控制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "软体动物控制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "线虫的控制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "啮齿动物控制", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "除草", 
+                            "children": [
+                                {
+                                    "name": "生物除草", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "化学除草", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "文化除草", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "手除草", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "刷控制", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "机械除草", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "法律除草", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "综合控制", 
+                    "children": [
+                        {
+                            "name": "害虫综合治理", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "综合疾病控制", 
+                            "children": [
+                                {
+                                    "name": "疾病综合管理", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "检疫", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生态控制", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "荷尔蒙控制", 
+                    "children": [
+                        {
+                            "name": "促性腺激素释放", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "植物检疫措施", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "法律控制", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "信息素控制", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "替代方法", 
+            "children": [
+                {
+                    "name": "动物实验替代", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "机械的方法", 
+            "children": [ ]
+        }, 
+        {
+            "name": "取样", 
+            "children": [
+                {
+                    "name": "整群抽样", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "随机抽样", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "土壤采样", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "血液采样", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "统计方法", 
+            "children": [
+                {
+                    "name": "计量经济学", 
+                    "children": [
+                        {
+                            "name": "消费函数", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "需求函数", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生产函数", 
+                            "children": [
+                                {
+                                    "name": "柯布-道格拉斯函数", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "供给函数", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "储蓄功能", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "因子分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "因子分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "回归分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "最佳线性无偏预测", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "判别方法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "概率分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "统计变化", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "多重回归分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "时间序列分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "协方差分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "方差分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "贝叶斯理论", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "成分分析(统计)", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "横截面分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "判别分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "博弈理论", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "蒙特卡罗方法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "多重共线性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "多变量分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "随机过程", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "统计的不确定性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "统计分散", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "的分布频率", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "路径分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "对应分析", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "教学方法", 
+            "children": [
+                {
+                    "name": "教练", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "技术", 
+            "children": [
+                {
+                    "name": "隔离技术", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "饲养技术", 
+                    "children": [
+                        {
+                            "name": "大规模饲养", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "培养技术", 
+                    "children": [
+                        {
+                            "name": "离体培养", 
+                            "children": [
+                                {
+                                    "name": "胚胎培养", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "细胞培养", 
+                                    "children": [
+                                        {
+                                            "name": "胚珠文化", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "原生质体培养", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "杂种细胞文化", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "组织培养", 
+                                    "children": [
+                                        {
+                                            "name": "分生组织培养", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "愈伤组织培养", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "体细胞胚胎发生", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "器官培养", 
+                                    "children": [
+                                        {
+                                            "name": "花药培养", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "花粉文化", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "卵巢文化(动物)", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "植物子房培养", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "悬浮培养", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "无菌培养", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "免疫技术", 
+                    "children": [
+                        {
+                            "name": "化学发光免疫测定", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "凝集试验", 
+                            "children": [
+                                {
+                                    "name": "血细胞凝集试验", 
+                                    "children": [
+                                        {
+                                            "name": "抗球蛋白试验", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "血细胞凝集抑制试验", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "牛奶环测试", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "乳胶凝集试验", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "补体结合试验", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "免疫荧光", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "免疫沉淀反应测试", 
+                            "children": [
+                                {
+                                    "name": "免疫扩散试验", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "中和试验", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "放射免疫检定法", 
+                            "children": [
+                                {
+                                    "name": "immunoradiometric化验", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "radioallergosorbent测试", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "radioimmunosorbent测试", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "immunoenzyme技术", 
+                            "children": [
+                                {
+                                    "name": "ELISA", 
+                                    "children": [
+                                        {
+                                            "name": "竞争ELISA", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "直接ELISA", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "间接ELISA", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "免疫诊断", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "免疫印迹", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "营销技巧", 
+                    "children": [
+                        {
+                            "name": "广告", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "拍卖", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "分期付款购买", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "促销活动", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "市场细分", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "示踪技术", 
+                    "children": [
+                        {
+                            "name": "同位素标记", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "闪烁法", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "电刺激", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "诊断技术", 
+                    "children": [
+                        {
+                            "name": "射线照相法", 
+                            "children": [
+                                {
+                                    "name": "放射自显影法", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "断层摄影术", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "心血管造影术", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "血管造影术", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "肌电描记术", 
+                            "children": [
+                                {
+                                    "name": "心电描记法", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "内窥镜检查", 
+                            "children": [
+                                {
+                                    "name": "腹腔镜检查", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "回波描记术", 
+                            "children": [
+                                {
+                                    "name": "超声心动图", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "超声", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "温度记录", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "脑电描记法", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "管理技术", 
+                    "children": [
+                        {
+                            "name": "运筹学", 
+                            "children": [
+                                {
+                                    "name": "优化方法", 
+                                    "children": [
+                                        {
+                                            "name": "关键路径分析", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "线性规划", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "非线性规划", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "水产养殖技术", 
+                    "children": [
+                        {
+                            "name": "笼子里的文化", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "polyculture(水产)", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "评价技术", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "DNA指纹分析", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "流式细胞术", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "实验室技术", 
+                    "children": [
+                        {
+                            "name": "染色体显带", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "电穿孔", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "基因技术", 
+                    "children": [
+                        {
+                            "name": "基因工程", 
+                            "children": [
+                                {
+                                    "name": "分子杂交", 
+                                    "children": [
+                                        {
+                                            "name": "DNA杂交", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "体细胞杂交", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "原生质体融合", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "染色体操作", 
+                                    "children": [
+                                        {
+                                            "name": "诱导多倍体", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "基因融合", 
+                                            "children": [
+                                                {
+                                                    "name": "混合蛋白质", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "基因换位", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "基因转移", 
+                                    "children": [
+                                        {
+                                            "name": "即peg", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "基因载体", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "胚胎分裂", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "蛋分割", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "单倍体法", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "遗传改良", 
+                            "children": [
+                                {
+                                    "name": "作物改良", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "染色体显带", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "聚合酶链反应", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "转染", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "RAPD", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "双列的分析", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "染色体的映射", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "扩增片段长度多态性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "监测技术", 
+                    "children": [
+                        {
+                            "name": "质量控制", 
+                            "children": [
+                                {
+                                    "name": "标签控件", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "HACCP", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "可追溯性", 
+                                    "children": [
+                                        {
+                                            "name": "食品可追溯性", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "产品可追溯性", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "生殖技术", 
+                    "children": [
+                        {
+                            "name": "生育控制", 
+                            "children": [
+                                {
+                                    "name": "人工授精", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "体外受精", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "流产", 
+                                    "children": [
+                                        {
+                                            "name": "人工流产", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "避孕药", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "计划生育", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "胚胎移植", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "发情同步", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "诱导分娩", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "诱导排卵", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "生理技术", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "年代测定", 
+            "children": [
+                {
+                    "name": "放射性碳年代测定法", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "树木年代学", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "案例研究", 
+            "children": [ ]
+        }, 
+        {
+            "name": "排水系统", 
+            "children": [
+                {
+                    "name": "明沟排水", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "地下排水工程", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "纵向排水", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "交叉排水", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "收集沟渠", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "木材干馏", 
+            "children": [ ]
+        }, 
+        {
+            "name": "文化的方法", 
+            "children": [
+                {
+                    "name": "等高线种植", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "梯田种植", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "旱作农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "旱作农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "园艺", 
+                    "children": [
+                        {
+                            "name": "有机园艺", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "学校园艺", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "灌溉农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "受保护栽培", 
+                    "children": [
+                        {
+                            "name": "作物过冬", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "无土栽培", 
+                    "children": [
+                        {
+                            "name": "水培法", 
+                            "children": [
+                                {
+                                    "name": "溶液培养", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "aquaponics\u201d", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "营养的电影技术", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "空气", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "盆栽", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生动物培养", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "户外种植", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "集成工厂生产", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "研究方法", 
+            "children": [
+                {
+                    "name": "实验", 
+                    "children": [
+                        {
+                            "name": "实验室实验", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "盆栽试验", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "在体外实验", 
+                            "children": [
+                                {
+                                    "name": "瘤胃模拟技术", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "体内实验", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "各种试验", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "种源试验", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "现场实验", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "临床试验", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "在实验的焦点在于", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "绿色实验", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "调查", 
+                    "children": [
+                        {
+                            "name": "测量师学会", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "人口普查", 
+                            "children": [
+                                {
+                                    "name": "农业人口普查", 
+                                    "children": [
+                                        {
+                                            "name": "牲畜人口普查", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "人口普查", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "农场的调查", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "森林调查", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土壤调查", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "营养调查", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "消费者调查", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "疾病的调查", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "地籍调查", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "害虫的调查", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "农村快速评估", 
+                            "children": [
+                                {
+                                    "name": "参与式农村评估", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "在体外", 
+            "children": [ ]
+        }, 
+        {
+            "name": "的运输方式", 
+            "children": [ ]
+        }, 
+        {
+            "name": "高压灭菌法", 
+            "children": [ ]
+        }, 
+        {
+            "name": "试验方法", 
+            "children": [ ]
+        }, 
+        {
+            "name": "手动操作", 
+            "children": [ ]
+        }, 
+        {
+            "name": "想了解", 
+            "children": [ ]
+        }, 
+        {
+            "name": "图像", 
+            "children": [
+                {
+                    "name": "摄影术", 
+                    "children": [
+                        {
+                            "name": "摄影测量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "航空摄影", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "显微摄影", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "回波描记术", 
+                    "children": [
+                        {
+                            "name": "超声心动图", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "超声", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "照片判读", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "卫星图像", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "磁共振成像", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "多光谱图像", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "播种方法", 
+            "children": [ ]
+        }, 
+        {
+            "name": "种植方法", 
+            "children": [
+                {
+                    "name": "斯里兰卡", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "调查方法", 
+            "children": [ ]
+        }, 
+        {
+            "name": "测试", 
+            "children": [
+                {
+                    "name": "铺设测试", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "亲子鉴定", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "肝功能测试", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "皮肤测试", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "烹饪方法", 
+            "children": [
+                {
+                    "name": "沸腾", 
+                    "children": [
+                        {
+                            "name": "播种(糖)", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "煎", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "烤", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "炖", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "酷热的", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "酝酿", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "炖", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "挤压蒸煮", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "微波烹饪", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "敬酒", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "烧烤", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "传统的方法", 
+            "children": [
+                {
+                    "name": "传统的煮半熟方法", 
+                    "children": [ ]
+                }
+            ]
+        }
+    ]
+}

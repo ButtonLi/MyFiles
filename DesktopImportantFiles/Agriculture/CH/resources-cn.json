@@ -1,0 +1,2012 @@
+{
+    "name": "资源", 
+    "children": [
+        {
+            "name": "经济资源", 
+            "children": [
+                {
+                    "name": "性质", 
+                    "children": [
+                        {
+                            "name": "个人土地产权", 
+                            "children": [
+                                {
+                                    "name": "个人财产", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "愿意卖", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "嫁妆(土地)", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "独立专家", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "公证", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "物权法", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "间隙的权利", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "国家财产", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "房地产", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "共同财产", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "输入", 
+            "children": [
+                {
+                    "name": "农业投入", 
+                    "children": [
+                        {
+                            "name": "化肥", 
+                            "children": [
+                                {
+                                    "name": "液化气肥料", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "复合肥料", 
+                                    "children": [
+                                        {
+                                            "name": "氮磷化肥", 
+                                            "children": [
+                                                {
+                                                    "name": "摘要", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "氮磷钾化肥", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "磷钾化肥", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "氮钾化肥", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "微量元素肥料", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "有机矿质肥料", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "缓释肥料", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "无机肥料", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "肥料组合", 
+                                    "children": [
+                                        {
+                                            "name": "化肥农药的组合", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "有机肥料", 
+                                    "children": [
+                                        {
+                                            "name": "鸟粪", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "鱼的粪便", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "堆肥", 
+                                            "children": [
+                                                {
+                                                    "name": "盆栽堆肥", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "绿色肥料", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "生物肥料", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "磷酸盐肥料", 
+                                    "children": [
+                                        {
+                                            "name": "磷矿石", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "过磷酸钙", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "钾化肥", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "氮肥", 
+                                    "children": [
+                                        {
+                                            "name": "铵肥料", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "硝酸盐肥料", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "硫肥料", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "钙肥料", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "镁肥料", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "液体肥料", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "传播材料", 
+                            "children": [
+                                {
+                                    "name": "sphaeroblasts", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "中间砧", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "stecklings", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "人工种子", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "截根苗", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "集", 
+                                    "children": [
+                                        {
+                                            "name": "种子土豆", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "试管植物", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "种植的股票", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "子嗣", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "小苗", 
+                                    "children": [
+                                        {
+                                            "name": "相形见绌的小苗", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "岩屑", 
+                                    "children": [
+                                        {
+                                            "name": "microcuttings", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "种子", 
+                                    "children": [
+                                        {
+                                            "name": "种子的混合物", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "基金会种子", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "认证的种子", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "育种者种子", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "教育资源", 
+            "children": [
+                {
+                    "name": "视听艾滋病", 
+                    "children": [
+                        {
+                            "name": "录像机", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "教学材料", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "原材料", 
+            "children": [ ]
+        }, 
+        {
+            "name": "能源", 
+            "children": [ ]
+        }, 
+        {
+            "name": "自然资源", 
+            "children": [
+                {
+                    "name": "农业资源", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "可再生资源", 
+                    "children": [
+                        {
+                            "name": "可再生生物资源", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "可再生能源", 
+                            "children": [
+                                {
+                                    "name": "生物能源", 
+                                    "children": [
+                                        {
+                                            "name": "生物燃料", 
+                                            "children": [
+                                                {
+                                                    "name": "薪材", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "沼气", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "生物柴油", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "木材能源", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "地热能源", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "太阳能", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "水的力量", 
+                                    "children": [
+                                        {
+                                            "name": "水力发电", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "风力发电", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "海洋能源", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "不可再生资源", 
+                    "children": [
+                        {
+                            "name": "水资源", 
+                            "children": [
+                                {
+                                    "name": "蓄水层", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "地表水", 
+                                    "children": [
+                                        {
+                                            "name": "wadi", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "瀑布", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "水泉", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "激流", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "深渊", 
+                                            "children": [
+                                                {
+                                                    "name": "加的斯湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "海湾的西面", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "波斯湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "泰国湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "阿拉斯加湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "莫罗湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "阿曼湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "阿卡巴湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "亚丁湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "芬兰海湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "几内亚湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "苏伊士海湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "墨西哥湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "帕利亚湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "圣劳伦斯湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "湾特豪德培克开始", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "加利福尼亚湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "海湾圣Matias", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "海湾圣豪尔赫", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "委内瑞拉湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Saronikos湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "狮子湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "那不勒斯湾", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "主要繁殖区di热那亚", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Asinara湾", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "径流水", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "湖泊", 
+                                            "children": [
+                                                {
+                                                    "name": "五大湖", 
+                                                    "children": [
+                                                        {
+                                                            "name": "休伦湖", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "苏必利尔湖", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "伊利湖", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "安大略湖", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "密西根湖", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357890415160", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357890772832", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357890924799", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357891350827", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357891904402", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357892007901", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357892170527", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357892310377", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357906909635", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357907153092", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357909004875", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357909236022", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357909387677", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357909508675", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357909751445", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357909960176", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357910106768", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357910247732", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357910388521", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357910529931", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357910673669", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357910822534", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "库苏古尔湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "里海", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "乍得湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "基伍湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "姆韦鲁湖湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "爱德华湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "坦噶尼喀湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "艾伯特湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "图尔卡纳湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "维多利亚湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "尼亚萨湖湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "卡里巴湖湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "沃尔塔湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "圣克莱尔湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "休伦湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "苏必利尔湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "伊利湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "安大略湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "密西根湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "的的喀喀湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "湖长盾步兵", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Neusiedler湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "康斯坦斯湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "日内瓦湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "马焦雷湖", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "卢加诺湖", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "河流", 
+                                            "children": [
+                                                {
+                                                    "name": "Muonio河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Alberche河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "杜罗河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "瓜迪亚纳河Menor", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Llobregat河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "埃布罗河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "瓜达尔基维尔河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Beskonak河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Gediz河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357723309791", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357724673349", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357724908141", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357725100341", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357726073001", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357726233464", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357726661587", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357733160639", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357733360672", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357733556549", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357733723215", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357733951859", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "c_1357734126307", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "湄公河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Bague河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Agno河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "省的河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Angat河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "比科尔人河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "齐川阳河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "昭披耶河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "印度河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "金刚山河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "恒河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Cauvery河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "戈西河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "胡格利河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "直接河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "戈达瓦里河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "将近恒河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "加欧雅河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "加兹尼河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "喀布尔河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "哈里河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Kokcha河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "法拉河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Adraskand河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Hableh河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Gonjancham河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "丢在河里", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "守护神河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "幼发拉底河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "底格里斯河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "约旦河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "利塔尼河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "贝卡河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "露出河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Arka河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "阿布·阿里河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Balikh河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "哈德拉毛河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "喀格拉河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Logone河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "沙里河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "刚果河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "裂缝河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "阿瓦什河的", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Dabus河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Dinder河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "蓝色尼罗河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "阿斯河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Mangoky河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "报告河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "朱巴的河流", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Giuba河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "尼罗河", 
+                                                    "children": [
+                                                        {
+                                                            "name": "蓝色尼罗河", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "基隆贝罗河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "赞比西河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "奥卡万戈河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "林波波河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Khomokhoana河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "科马提河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Chambeshi河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "卢安瓜河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "喀辅埃河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "冈比亚河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "塞内加尔河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "尼日尔河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Comoe河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "巴尼河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "绑票河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Bougouriba河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Bou Regreg河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "阿蒂博尼特河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Estere河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "玛莎斜坡河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "图河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "甘蔗河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "卡罗尼河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Itiquis河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "力拓杜尔塞河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Choluteca河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "埃斯孔迪多河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "洛杉矶河别墅", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "圣罗伦斯河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "育空河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "哥伦比亚河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "弗雷泽河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "尼亚加拉河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Coatza煤cos河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "印度的河流", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "哈德逊河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "科罗拉多河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "密苏里河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "黑水公司河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "密西西比河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "康涅狄格河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "阿格里奥河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "巴拉那河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "乌拉圭河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "利迈河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "马德拉河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "亚马逊河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "奥里诺科河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Cauca河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "马格达莱纳河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "波哥大河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Carare河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Kuribrong河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "红糖的一种河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "埃塞奎博河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Cuyuni河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Canje河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Berbice河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Courantyne河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Chira河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Aucayacu河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Chiriyacu河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "画以Maranon河为", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "伊河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Mantaro河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Huaura河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Huallaga河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "一束纯净的河流", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Amakura河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Cojedes河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "多瑙河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Acheloos河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Anapodaris河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "奥得河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "易北河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "莱茵河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "默兹河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Lesse河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "kouri河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "摩泽尔河河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "罗纳河", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "Flumendosa河", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "池塘", 
+                                            "children": [
+                                                {
+                                                    "name": "鱼塘", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "土地资源", 
+                            "children": [
+                                {
+                                    "name": "可耕种土地", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "灌木丛", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "未开垦的", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "泥炭地", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "边际土地", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "浪费土地", 
+                                    "children": [
+                                        {
+                                            "name": "无人认领的土地", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "牧场", 
+                                    "children": [
+                                        {
+                                            "name": "牧场", 
+                                            "children": [
+                                                {
+                                                    "name": "森林的范围", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "牧场", 
+                                            "children": [
+                                                {
+                                                    "name": "播种牧场", 
+                                                    "children": [
+                                                        {
+                                                            "name": "草地的", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "混合的牧场", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "天然牧场", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "永久牧场", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "牧场", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "填海土地", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "农田", 
+                                    "children": [
+                                        {
+                                            "name": "休耕的", 
+                                            "children": [
+                                                {
+                                                    "name": "绿色休闲", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "裸休耕", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "灌溉土地", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "耕地", 
+                                            "children": [
+                                                {
+                                                    "name": "播种牧场", 
+                                                    "children": [
+                                                        {
+                                                            "name": "草地的", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "果园", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "葡萄园", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "字段", 
+                                                    "children": [
+                                                        {
+                                                            "name": "稻田", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "土地", 
+                                    "children": [
+                                        {
+                                            "name": "国家土地", 
+                                            "children": [
+                                                {
+                                                    "name": "土地征用权", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "土地估价", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "被遗弃的土地", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "林地", 
+                                    "children": [
+                                        {
+                                            "name": "土地退化的森林", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "常见的土地", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "矿产资源", 
+                            "children": [
+                                {
+                                    "name": "coal", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "褐煤", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "石油", 
+                                    "children": [
+                                        {
+                                            "name": "矿物油", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "柴油", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "汽油", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "泥炭", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "饲料资源", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生物资源", 
+                    "children": [
+                        {
+                            "name": "生物多样性", 
+                            "children": [
+                                {
+                                    "name": "遗传多样性的资源", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "agrobiodiversity", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "自然遗产", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "动物资源", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "遗传资源", 
+                            "children": [
+                                {
+                                    "name": "基因库", 
+                                    "children": [
+                                        {
+                                            "name": "社区种子银行", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "动物遗传资源", 
+                                    "children": [
+                                        {
+                                            "name": "品种(动物)", 
+                                            "children": [
+                                                {
+                                                    "name": "血统的牲畜", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "多用途的品种", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "高产品种", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "牲畜品种", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "矮品种(动物)", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "介绍了品种", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "陆地种族", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "品种", 
+                                    "children": [
+                                        {
+                                            "name": "多用途的品种", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "抗性品种", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "高产品种", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "矮品种", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "无籽品种", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "土地的品种", 
+                                            "children": [
+                                                {
+                                                    "name": "具体的品种", 
+                                                    "children": [
+                                                        {
+                                                            "name": "碱性区域不同", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "丘陵地区不同", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "灌区不同", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "介绍了品种", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "基因池", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "种质资源", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "植物遗传资源", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "森林遗传资源", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "植物资源", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "野生动物", 
+                            "children": [
+                                {
+                                    "name": "野生动物", 
+                                    "children": [
+                                        {
+                                            "name": "游戏", 
+                                            "children": [
+                                                {
+                                                    "name": "游戏鱼", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "游戏的小鸟", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "游戏的哺乳动物", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "野猪", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "野生植物", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "下议院", 
+                    "children": [
+                        {
+                            "name": "集体所有权", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "常见的土地", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "公共区域", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "海洋资源", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "渔业资源", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "食物资源", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "能源资源", 
+                    "children": [
+                        {
+                            "name": "燃料", 
+                            "children": [
+                                {
+                                    "name": "柴油", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "天然气", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "液体燃料", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "固体燃料", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "发生炉煤气", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "化石燃料", 
+                                    "children": [
+                                        {
+                                            "name": "油页岩", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "生物燃料", 
+                                    "children": [
+                                        {
+                                            "name": "薪材", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "沼气", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "生物柴油", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "森林资源", 
+                    "children": [
+                        {
+                            "name": "保护森林", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生产的森林", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "保护森林", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "土壤资源", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "文化遗产", 
+            "children": [ ]
+        }, 
+        {
+            "name": "人力资源", 
+            "children": [
+                {
+                    "name": "人力资源", 
+                    "children": [
+                        {
+                            "name": "工人", 
+                            "children": [
+                                {
+                                    "name": "年轻的工人", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "全职工作人员", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "农业工人", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "森林工人", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "工厂工人", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "农民工", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "劳动力", 
+                            "children": [
+                                {
+                                    "name": "永久的劳动力", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "童工", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "女性劳动力", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "雇佣劳动", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "男性劳动力", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "季节性劳动力", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "兼职劳动力", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "熟练劳动力", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "非熟练劳动", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "临时工", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "义务劳动", 
+                                    "children": [
+                                        {
+                                            "name": "保税工作", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "农民工", 
+                                    "children": [
+                                        {
+                                            "name": "外国工人", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "家庭劳动", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

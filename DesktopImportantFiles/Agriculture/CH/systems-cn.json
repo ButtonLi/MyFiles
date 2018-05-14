@@ -1,0 +1,1542 @@
+{
+    "name": "系统", 
+    "children": [
+        {
+            "name": "光伏系统", 
+            "children": [ ]
+        }, 
+        {
+            "name": "进料系统", 
+            "children": [
+                {
+                    "name": "个人喂", 
+                    "children": [
+                        {
+                            "name": "强制喂养", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "限量喂养", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "无限制的喂养", 
+                    "children": [
+                        {
+                            "name": "自我喂养", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "零放牧", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "室内饲养", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "干喂养", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "湿喂", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "放牧系统", 
+                    "children": [
+                        {
+                            "name": "森林放牧", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "混合放牧", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "控制放牧", 
+                            "children": [
+                                {
+                                    "name": "放牧的合同", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "循环放牧", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "带放牧", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "拴在放牧", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "常见的放牧", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "有选择性的吃草", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "牧草喂养", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "连续放牧", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "车辆系统", 
+            "children": [
+                {
+                    "name": "液压系统", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "传输", 
+                    "children": [
+                        {
+                            "name": "电力起飞", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "跟踪", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "刹车", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "座位", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "轮子", 
+                    "children": [
+                        {
+                            "name": "轮胎", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "拖拉机出租车", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "悬架系统", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "方法", 
+            "children": [
+                {
+                    "name": "测试", 
+                    "children": [
+                        {
+                            "name": "无损检测", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "筛选", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "性能测试", 
+                            "children": [
+                                {
+                                    "name": "动物表演", 
+                                    "children": [
+                                        {
+                                            "name": "肉的性能", 
+                                            "children": [
+                                                {
+                                                    "name": "肉类产量", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "肉的纹理", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "牛奶的性能", 
+                                            "children": [
+                                                {
+                                                    "name": "milkability", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "牛奶产量", 
+                                                    "children": [
+                                                        {
+                                                            "name": "牛奶蛋白产量", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "牛奶脂肪产量", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "繁殖性能", 
+                                            "children": [
+                                                {
+                                                    "name": "产犊率", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "开玩笑的速度", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "产羔率", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "产仔量", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "铺设的性能", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "牛奶记录", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "作物的性能", 
+                                    "children": [
+                                        {
+                                            "name": "作物产量", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "各种试验", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "设备测试", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "种子测试", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土壤分析", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "后代测试", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "品种筛选", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "灌溉系统", 
+            "children": [ ]
+        }, 
+        {
+            "name": "社会文化系统", 
+            "children": [ ]
+        }, 
+        {
+            "name": "知识组织系统", 
+            "children": [
+                {
+                    "name": "计划的关系", 
+                    "children": [
+                        {
+                            "name": "概念图", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "本体", 
+                            "children": [
+                                {
+                                    "name": "应用本体", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "上层本体", 
+                                    "children": [
+                                        {
+                                            "name": "标准上层本体", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "领域本体", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "分类(信息管理)", 
+                            "children": [
+                                {
+                                    "name": "数值分类法", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "主题词", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "同义词典", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "主题图", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "项列表", 
+                    "children": [
+                        {
+                            "name": "术语表", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "字典", 
+                            "children": [
+                                {
+                                    "name": "地名", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "授权文件", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "农林复合经营系统", 
+            "children": [
+                {
+                    "name": "silvopastoral系统", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "agrosilvopastoral系统", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "分销系统", 
+            "children": [
+                {
+                    "name": "配水系统", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "分类系统", 
+            "children": [ ]
+        }, 
+        {
+            "name": "种植制度", 
+            "children": [
+                {
+                    "name": "连作", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "间作", 
+                    "children": [
+                        {
+                            "name": "小巷裁剪", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "混合种植", 
+                    "children": [
+                        {
+                            "name": "同伴种植", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "唯一的裁剪", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "分阶段种植", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "顺序裁剪", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "季节种植", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "双种植", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "带状种植", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "林下栽植", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "轮作", 
+                    "children": [
+                        {
+                            "name": "草地农业", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "轮垦", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "休闲系统", 
+                    "children": [
+                        {
+                            "name": "布什休闲地", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "单一文化", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "多种植", 
+                    "children": [
+                        {
+                            "name": "抓住裁剪", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "继电器裁剪", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "淡季种植", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "农业系统", 
+            "children": [
+                {
+                    "name": "农业合作", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "自给农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "agropisciculture", 
+                    "children": [
+                        {
+                            "name": "ricefield水产养殖", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "商业农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "合同农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "agropastoral系统", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "集约农业", 
+                    "children": [
+                        {
+                            "name": "强化", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "集约饲养", 
+                            "children": [
+                                {
+                                    "name": "电池管理", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "混合农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "传统的农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "过渡农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "大规模的农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "全职农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "山地农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "耕地业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "精准农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "传统的农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "营养管理", 
+                    "children": [
+                        {
+                            "name": "站点特定的营养管理", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "植物养分综合管理", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "气候智能型农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "家庭农场", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "广泛的农业", 
+                    "children": [
+                        {
+                            "name": "扩大化", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "粗放饲养", 
+                            "children": [
+                                {
+                                    "name": "放养饲养", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "游牧畜牧业", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "田园主义", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "可持续农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "农林复合经营", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "替代农业", 
+                    "children": [
+                        {
+                            "name": "有机农业", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生物动力农业", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "低投入农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "兼职农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "后院农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "小规模的农业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "集体农场", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "保护性农业", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "政治制度", 
+            "children": [
+                {
+                    "name": "联合会", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "殖民主义", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "封建主义", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "民主", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "独裁统治", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "联邦制", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "军国主义", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "民族主义", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "联合会", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "营林系统", 
+            "children": [
+                {
+                    "name": "矮林系统", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "高的森林", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "波拉德系统", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "小灌木林与标准体系", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "森林种植园", 
+                    "children": [
+                        {
+                            "name": "能源的森林", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "有选择性的感觉", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "任期内", 
+            "children": [
+                {
+                    "name": "业主入住率", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "土地保有权", 
+                    "children": [
+                        {
+                            "name": "农场租赁", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土地使用权系统", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "安全使用期(土地)", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "惯常的任期", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "正式的任期", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "法定任期", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "任期正规化", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "原住民保留区体系", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "入住率", 
+                    "children": [
+                        {
+                            "name": "非正式的财产", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "土地所有权", 
+                    "children": [
+                        {
+                            "name": "失地", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "侵犯", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土地制度", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "租赁", 
+                    "children": [
+                        {
+                            "name": "分享种植", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "种姓制度", 
+            "children": [ ]
+        }, 
+        {
+            "name": "信息系统", 
+            "children": [
+                {
+                    "name": "AGRIS", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "CARIS", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "土地信息系统", 
+                    "children": [
+                        {
+                            "name": "地籍登记", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "地理信息系统", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "数据库", 
+                    "children": [
+                        {
+                            "name": "空间数据库", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "管理信息系统", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "基于知识的系统", 
+                    "children": [
+                        {
+                            "name": "知识和信息系统", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "全球定位系统", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "专家系统", 
+                    "children": [
+                        {
+                            "name": "决策支持系统", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "EWFIS", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "术语", 
+            "children": [
+                {
+                    "name": "命名法", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "交配系统", 
+            "children": [
+                {
+                    "name": "随机交配", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "选型交配", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "一夫一妻制", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "自然远交", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "价值体系", 
+            "children": [
+                {
+                    "name": "审美价值", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "观赏价值", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "文化价值观", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "社会价值观", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "使用价值", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "监测系统", 
+            "children": [
+                {
+                    "name": "全球观测系统", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "生态系统", 
+            "children": [
+                {
+                    "name": "生物栖地", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "栖息地", 
+                    "children": [
+                        {
+                            "name": "小环境", 
+                            "children": [
+                                {
+                                    "name": "叶围", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "摩尔人", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "食物链", 
+                    "children": [
+                        {
+                            "name": "营养水平", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "农业生态系统", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生物群落", 
+                    "children": [
+                        {
+                            "name": "植物群落", 
+                            "children": [
+                                {
+                                    "name": "高潮的社区", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "水生社区", 
+                            "children": [
+                                {
+                                    "name": "底栖生物", 
+                                    "children": [
+                                        {
+                                            "name": "大型底栖生物", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "较小型水底生物", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "microbenthos", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "底栖植物", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "底栖动物", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "自游生物", 
+                                    "children": [
+                                        {
+                                            "name": "弱泳生物", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "漂浮生物", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "水漂生物", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "悬浮物", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "浮游生物", 
+                                    "children": [
+                                        {
+                                            "name": "浮游动物", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "浮游植物", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "固着生物", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "森林生态系统", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "注册", 
+            "children": [
+                {
+                    "name": "血统证书", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "土地登记", 
+                    "children": [
+                        {
+                            "name": "证书登记", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "裁定", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "早期预警系统", 
+            "children": [
+                {
+                    "name": "EWFIS", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "经济系统", 
+            "children": [
+                {
+                    "name": "资本主义", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "市场经济", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "经济上的二元论", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "经济部门", 
+                    "children": [
+                        {
+                            "name": "农业部门", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "主要部门", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "二级部门", 
+                            "children": [
+                                {
+                                    "name": "工业", 
+                                    "children": [
+                                        {
+                                            "name": "家庭手工业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "矿业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "制造", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "化学工业", 
+                                            "children": [
+                                                {
+                                                    "name": "化肥行业", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "农药行业", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "油行业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "鱼业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "输入行业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "皮革工业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "机械行业", 
+                                            "children": [
+                                                {
+                                                    "name": "拖拉机行业", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "纸浆和造纸工业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "造船", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "淀粉行业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "纺织工业", 
+                                            "children": [
+                                                {
+                                                    "name": "棉花产业", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "羊毛产业", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "丝绸工业", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "烟草行业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "木材工业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "橡胶工业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "制药行业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "森林产品行业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "包装行业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "制冷行业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "发酵工业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "建筑行业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "非食品行业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "服务行业", 
+                                            "children": [
+                                                {
+                                                    "name": "旅游", 
+                                                    "children": [
+                                                        {
+                                                            "name": "农业旅游", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "农场度假", 
+                                                                    "children": [ ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "生态旅游", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "agroindustry", 
+                                            "children": [
+                                                {
+                                                    "name": "饲料行业", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "鸡蛋行业", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "种子产业", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "食品行业", 
+                                                    "children": [
+                                                        {
+                                                            "name": "罐头行业", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "烘焙行业", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "面食行业", 
+                                                                    "children": [ ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "饮料工业", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "酿造工业", 
+                                                                    "children": [ ]
+                                                                }, 
+                                                                {
+                                                                    "name": "咖啡行业", 
+                                                                    "children": [ ]
+                                                                }, 
+                                                                {
+                                                                    "name": "蒸馏酒行业", 
+                                                                    "children": [ ]
+                                                                }, 
+                                                                {
+                                                                    "name": "茶叶行业", 
+                                                                    "children": [ ]
+                                                                }, 
+                                                                {
+                                                                    "name": "葡萄酒行业", 
+                                                                    "children": [ ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "食品服务行业", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "可可业", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "糖果行业", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "果酱行业", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "乳制品行业", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "制酪业", 
+                                                                    "children": [ ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "肉类产业", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "铣削行业", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "制糖工业", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "蛋产品行业", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "农业的和工业的部门", 
+                                            "children": [
+                                                {
+                                                    "name": "postagricultural部门", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "preagricultural部门", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "采掘业", 
+                                            "children": [
+                                                {
+                                                    "name": "矿业", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "第三产业部门", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "林业部门", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "私营部门", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "公共部门", 
+                            "children": [
+                                {
+                                    "name": "政府", 
+                                    "children": [
+                                        {
+                                            "name": "当地政府", 
+                                            "children": [
+                                                {
+                                                    "name": "市政府", 
+                                                    "children": [
+                                                        {
+                                                            "name": "\u201c村务委员会\u201d", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "地方政府", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "当局", 
+                                            "children": [
+                                                {
+                                                    "name": "当地政府", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "政府当局", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "承包当局", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "法定当局", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "水部门", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "市政当局", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "中央政府", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "非正式部门", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "社会主义", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "集体主义", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "postsocialism", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "混合经济", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "中央计划经济", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "控制系统", 
+            "children": [ ]
+        }, 
+        {
+            "name": "饮用水系统", 
+            "children": [ ]
+        }, 
+        {
+            "name": "教育系统", 
+            "children": [
+                {
+                    "name": "私人教育", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "公共教育", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "远程教育", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "饲养系统", 
+            "children": [ ]
+        }
+    ]
+}

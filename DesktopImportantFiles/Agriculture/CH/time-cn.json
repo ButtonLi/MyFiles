@@ -1,0 +1,115 @@
+{
+    "name": "时间", 
+    "children": [
+        {
+            "name": "持续时间", 
+            "children": [
+                {
+                    "name": "哺乳时间", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "季节", 
+            "children": [
+                {
+                    "name": "秋天", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "旱季", 
+                    "children": [
+                        {
+                            "name": "干旱", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "弹簧", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "夏天", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "温暖的季节", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "湿季", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "冬天", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "寒冷的季节", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "定时", 
+            "children": [
+                {
+                    "name": "同步", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "播种日期", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "种植日期", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "处理日期", 
+                    "children": [
+                        {
+                            "name": "硬化", 
+                            "children": [
+                                {
+                                    "name": "弗罗斯特硬化", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "收获前的治疗", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "收获日期", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "移植时间", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "作物的日历", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "工作时间", 
+            "children": [ ]
+        }, 
+        {
+            "name": "空闲时间", 
+            "children": [ ]
+        }, 
+        {
+            "name": "可用的天", 
+            "children": [ ]
+        }
+    ]
+}

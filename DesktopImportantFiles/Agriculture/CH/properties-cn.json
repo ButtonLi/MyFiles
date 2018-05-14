@@ -1,0 +1,1971 @@
+{
+    "name": "财产", 
+    "children": [
+        {
+            "name": "抗生素的属性", 
+            "children": [
+                {
+                    "name": "抗菌性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "抗真菌特性", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "木属性", 
+            "children": [
+                {
+                    "name": "木材缺陷", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "木纹和花纹", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "技术性能", 
+            "children": [
+                {
+                    "name": "保持质量", 
+                    "children": [
+                        {
+                            "name": "氧化稳定性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "运输质量", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "年龄", 
+            "children": [
+                {
+                    "name": "幼苗的年龄", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "周期性", 
+            "children": [
+                {
+                    "name": "季节性变化", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "季节性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "月球阶段", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "光周期现象", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "生物属性", 
+            "children": [
+                {
+                    "name": "生存能力", 
+                    "children": [
+                        {
+                            "name": "种子活力", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "c_1374849874515", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "辐射敏感度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "遗传抗性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "年龄", 
+                    "children": [
+                        {
+                            "name": "幼苗的年龄", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "宽容", 
+                    "children": [
+                        {
+                            "name": "耐水性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "耐寒性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "耐热性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "葡萄糖耐量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "耐旱", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "抗药性害虫", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "盐耐受性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "药物耐受性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "树荫下公差", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "洪水宽容", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "疾病的宽容", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "耐强降雨", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "抗有害因素", 
+                    "children": [
+                        {
+                            "name": "害虫抗药性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "抗旱性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "抗病性", 
+                            "children": [
+                                {
+                                    "name": "素质", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "耐温性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "风的阻力", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "抗寒性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "抗寒性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "耐寒性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生理压力阻力", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "诱导阻力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "寿命", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "后天性", 
+                    "children": [
+                        {
+                            "name": "获得的免疫耐受", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "后天免疫", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "获得性免疫缺陷", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "选择标准", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "耐化学药品", 
+                    "children": [
+                        {
+                            "name": "对抗生素的耐药性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生理盐水和土壤抗性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "光敏性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "农艺性状", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "植物的习惯", 
+                    "children": [
+                        {
+                            "name": "爬山的习惯", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "erectness", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "树的形式", 
+                            "children": [
+                                {
+                                    "name": "皇冠", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "种子特征", 
+                    "children": [
+                        {
+                            "name": "种子寿命", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "种子活力", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "种子大小", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "种子重量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "种子含水量", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "细胞结构", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "消化率", 
+                    "children": [
+                        {
+                            "name": "体外消化率", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "体内消化率", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "饲料转化效率", 
+                            "children": [
+                                {
+                                    "name": "氮潴留", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "表观消化率", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "早熟", 
+                    "children": [
+                        {
+                            "name": "早熟", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "蛋字符", 
+                    "children": [
+                        {
+                            "name": "蛋壳", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "卵孵化率", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "肥沃", 
+                    "children": [
+                        {
+                            "name": "青少年生育", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "发芽力", 
+                    "children": [
+                        {
+                            "name": "种子发芽力", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "花粉发芽力", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "种子寿命", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "微生物属性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "耐药性", 
+                    "children": [
+                        {
+                            "name": "耐打虫药", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "杀虫剂抗性", 
+                    "children": [
+                        {
+                            "name": "抗杀螨剂", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "抗杀真菌剂", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "抗除草剂", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "对杀虫剂的抗药性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "摘要阻力确定", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "交叉耐药性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "色素沉着", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "极性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "花粉不相容", 
+                    "children": [
+                        {
+                            "name": "自我不育", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "耐倒伏性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "膨", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "活力", 
+                    "children": [
+                        {
+                            "name": "种子保存期限", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "全能性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "植物的结构", 
+                    "children": [
+                        {
+                            "name": "木材结构", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "免疫能力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "自我的兼容性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "化学敏感性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "的身体构造", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "动物的结构", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "等温现象", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "无籽", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "性别差异", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "适应性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "再生能力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "上色", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "气孔阻力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "兼容性", 
+                    "children": [
+                        {
+                            "name": "组织相容性", 
+                            "children": [
+                                {
+                                    "name": "贪污的兼容性", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "寄主植物抗性", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "chemicophysical属性", 
+            "children": [
+                {
+                    "name": "密度", 
+                    "children": [
+                        {
+                            "name": "木材密度", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "沸点", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "重量", 
+                    "children": [
+                        {
+                            "name": "分子量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "体重", 
+                            "children": [
+                                {
+                                    "name": "屠宰体重", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "瘦体重", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "出生体重", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "断奶体重", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "垃圾重量", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "声学特性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "缓冲能力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "催化活性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "酶活性", 
+                    "children": [
+                        {
+                            "name": "酶的干扰", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "胶体性质", 
+                    "children": [
+                        {
+                            "name": "胶体稳定性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "等电点", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "比重", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "介电性能", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "电气性能", 
+                    "children": [
+                        {
+                            "name": "电势", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "电阻", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "导电性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "冰点", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "磁性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "机械性能", 
+                    "children": [
+                        {
+                            "name": "强度", 
+                            "children": [
+                                {
+                                    "name": "抗拉强度", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "速度", 
+                            "children": [
+                                {
+                                    "name": "风速", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "速度", 
+                            "children": [
+                                {
+                                    "name": "转速", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "风速", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "弹性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "压缩系数", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "c_28616", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "摩擦系数", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "熔点", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "分子量", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "光学性质", 
+                    "children": [
+                        {
+                            "name": "颜色", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "发光", 
+                            "children": [
+                                {
+                                    "name": "荧光", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "磷光", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "热释光", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "乳白光", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "极化", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "半透明", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "透明度(光学)", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "浊度", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "折射率", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "反射", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "吸光度", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "衍射", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "磁导率", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "持水量", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "pH值", 
+                    "children": [
+                        {
+                            "name": "等电点", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "血液pH值", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土壤pH值", 
+                            "children": [
+                                {
+                                    "name": "根际土壤pH值", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "放射性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "氧化还原电位", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "流变特性", 
+                    "children": [
+                        {
+                            "name": "粘度", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "可塑性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "铺展性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "一致性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "粘性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "盐度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "溶解度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "表面张力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "热性能", 
+                    "children": [
+                        {
+                            "name": "比热", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "温度", 
+                            "children": [
+                                {
+                                    "name": "体温", 
+                                    "children": [
+                                        {
+                                            "name": "高热", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "体温过低", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "直肠温度", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "皮肤温度", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "热", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "空气温度", 
+                                    "children": [
+                                        {
+                                            "name": "环境空气温度", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "冷", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "环境温度", 
+                                    "children": [
+                                        {
+                                            "name": "环境水温度", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "土壤温度", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "根温度", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "水的温度", 
+                                    "children": [
+                                        {
+                                            "name": "环境水温度", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "大气温度", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "热容量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "热导率", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "热惰性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "热化学性质", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "水结合能力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "酸度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "碱性储备", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "碱度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "孔隙度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "纹理", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "坚定", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "化学结构", 
+                    "children": [
+                        {
+                            "name": "氨基酸序列", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "皂化值", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "波动", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "离子交换容量", 
+                    "children": [
+                        {
+                            "name": "阴离子交换能力", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "阳离子交换能力", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "水活动", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "收缩", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "肿胀", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生物降解能力", 
+                    "children": [
+                        {
+                            "name": "瘤胃降解性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "吸湿性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "可燃性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "疏水性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "同渗重摩", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "稳定", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "质量", 
+            "children": [
+                {
+                    "name": "饲料安全", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "感官的特性", 
+                    "children": [
+                        {
+                            "name": "味道", 
+                            "children": [
+                                {
+                                    "name": "苦", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "甜蜜", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "适口性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "从口味", 
+                            "children": [
+                                {
+                                    "name": "野猪污点", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "温柔", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "多汁性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "食品安全", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "肉的质量", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "食品质量", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "保持质量", 
+                    "children": [
+                        {
+                            "name": "氧化稳定性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "饲料质量", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "营养价值", 
+                    "children": [
+                        {
+                            "name": "膳食纤维", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "消化的纤维", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "消化的纤维素", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "消化的氮", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "消化淀粉", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "总消化的营养", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "蛋白质质量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "能量值", 
+                            "children": [
+                                {
+                                    "name": "淀粉等效", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "饲料单位", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "粗脂肪", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "加工质量", 
+                    "children": [
+                        {
+                            "name": "烘焙特性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "产品质量", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "种子质量", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "水的质量", 
+                    "children": [
+                        {
+                            "name": "水的硬度", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "缺陷", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "纯度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "污染", 
+                    "children": [
+                        {
+                            "name": "化学污染", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "食品污染", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生物污染", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "放射性污染", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生物体内积累", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "烹饪质量", 
+                    "children": [
+                        {
+                            "name": "烹饪大米质量", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "铣削质量", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "效率", 
+            "children": [
+                {
+                    "name": "利用效率", 
+                    "children": [
+                        {
+                            "name": "养分利用效率", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "水分利用效率", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "盈利能力", 
+            "children": [
+                {
+                    "name": "经济可行性", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "使用", 
+            "children": [
+                {
+                    "name": "装饰用", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "多个用", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "传统的使用", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "工业用途", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "杀虫的属性", 
+            "children": [
+                {
+                    "name": "农药的持久性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "农药特异性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "农药选择性", 
+                    "children": [
+                        {
+                            "name": "杀螨剂选择性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "杀真菌剂选择性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "杀虫剂选择性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "灭鼠剂选择性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "除草剂的选择性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "卵属性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "杀灭幼虫的属性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "杀螨属性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "真菌的特性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "herbicidal属性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "杀虫特性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "rodenticidal属性", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "毒性", 
+            "children": [
+                {
+                    "name": "接触毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "熏剂毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "摄入毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "危害植物的毒性", 
+                    "children": [
+                        {
+                            "name": "肥料受伤", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "土壤的毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "药物毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "农药的毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "致肿瘤性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "光毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "细胞毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "神经毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "急性毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "慢性毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "诱变", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "基因毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生态毒性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "致畸性", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "生产力", 
+            "children": [
+                {
+                    "name": "农业生产力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "资本生产率", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "劳动生产率", 
+                    "children": [
+                        {
+                            "name": "工作表现", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "土地生产力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "边际效用", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "可接受性", 
+            "children": [ ]
+        }, 
+        {
+            "name": "可见性", 
+            "children": [ ]
+        }, 
+        {
+            "name": "植物成分", 
+            "children": [ ]
+        }, 
+        {
+            "name": "土地适宜性", 
+            "children": [ ]
+        }, 
+        {
+            "name": "药用价值", 
+            "children": [
+                {
+                    "name": "副作用", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "设备的特点", 
+            "children": [
+                {
+                    "name": "设备性能", 
+                    "children": [
+                        {
+                            "name": "牵引力", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "设备可靠性", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "汽车的性能", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "使用寿命", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "运营商安慰", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "四轮驱动", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "可移植性", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "风向", 
+            "children": [ ]
+        }, 
+        {
+            "name": "可持续性", 
+            "children": [ ]
+        }, 
+        {
+            "name": "站的特点", 
+            "children": [
+                {
+                    "name": "站结构", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "林分密度", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "才能", 
+            "children": [
+                {
+                    "name": "工作能力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "致病性", 
+                    "children": [
+                        {
+                            "name": "毒性", 
+                            "children": [
+                                {
+                                    "name": "hypovirulence", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "无毒性", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "读写能力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "文盲", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "心智能力", 
+                    "children": [
+                        {
+                            "name": "智力", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "学习能力", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "内存", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "处理能力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "承载能力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "殖民能力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "互操作性", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "土壤特性", 
+            "children": [
+                {
+                    "name": "土壤肥力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "土壤chemicophysical属性", 
+                    "children": [
+                        {
+                            "name": "土壤密度", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土壤水力性质", 
+                            "children": [
+                                {
+                                    "name": "土壤水分平衡", 
+                                    "children": [
+                                        {
+                                            "name": "土壤保水性", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "土壤水分含量", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "土壤水分亏缺", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "径流", 
+                                            "children": [
+                                                {
+                                                    "name": "地下径流", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "渗透系数", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "土壤水分特征", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "土壤pH值", 
+                            "children": [
+                                {
+                                    "name": "根际土壤pH值", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "土壤盐碱化", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土壤热政权", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土壤温度", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土壤结构", 
+                            "children": [
+                                {
+                                    "name": "土壤孔隙系统", 
+                                    "children": [
+                                        {
+                                            "name": "土壤大孔隙", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "土壤微孔隙", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "土壤结构单元", 
+                                    "children": [
+                                        {
+                                            "name": "土壤的泥块", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "土壤质地", 
+                            "children": [
+                                {
+                                    "name": "土壤分离", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "土壤水势", 
+                            "children": [
+                                {
+                                    "name": "液压潜在(土壤)", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "基质势(土壤)", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "土壤水分的政权", 
+                            "children": [
+                                {
+                                    "name": "洪涝灾害", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "土壤吸附", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土壤强度", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土壤水分常数", 
+                            "children": [
+                                {
+                                    "name": "田间持水量", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "凋萎点", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "土壤通透性", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "土壤表面性质", 
+                    "children": [
+                        {
+                            "name": "土壤吸附", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "土壤孔隙度", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "年龄的土壤", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "新鲜", 
+            "children": [
+                {
+                    "name": "新鲜的食物", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "构成", 
+            "children": [
+                {
+                    "name": "食品成分", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "化学成分", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "血液成分", 
+                    "children": [
+                        {
+                            "name": "血液蛋白质", 
+                            "children": [
+                                {
+                                    "name": "血红蛋白", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "血清白蛋白", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "转铁蛋白", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "促红细胞生成素", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "纤维蛋白原", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "瘦素", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "血糖", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "血脂", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "血液气体", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "抓住作文", 
+                    "children": [
+                        {
+                            "name": "捕获", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "近似构成", 
+                    "children": [
+                        {
+                            "name": "酒精含量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "灰分含量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "矿物含量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "碳水化合物含量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "粗纤维", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "干物质含量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "脂质含量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "含氮量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "有机质含量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "酚类内容", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "蛋白质含量", 
+                            "children": [
+                                {
+                                    "name": "粗蛋白含量", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "维生素含量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "非蛋白氮", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "不皂化物分数", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "非蛋白氮含量", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "粗纤维含量", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "饲料成分", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "弹性", 
+            "children": [
+                {
+                    "name": "森林恢复", 
+                    "children": [ ]
+                }
+            ]
+        }
+    ]
+}

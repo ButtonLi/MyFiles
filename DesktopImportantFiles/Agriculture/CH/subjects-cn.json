@@ -1,0 +1,1885 @@
+{
+    "name": "主题", 
+    "children": [
+        {
+            "name": "统计科学", 
+            "children": [ ]
+        }, 
+        {
+            "name": "老年医学", 
+            "children": [ ]
+        }, 
+        {
+            "name": "科学", 
+            "children": [
+                {
+                    "name": "动物科学", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "地球科学", 
+                    "children": [
+                        {
+                            "name": "地质", 
+                            "children": [
+                                {
+                                    "name": "地貌学", 
+                                    "children": [
+                                        {
+                                            "name": "地形", 
+                                            "children": [
+                                                {
+                                                    "name": "高度", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "海洋地质", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "矿物学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "岩石学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "地层学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "水文地质", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "构造", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "土壤科学", 
+                            "children": [
+                                {
+                                    "name": "农业土壤学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "土壤学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "土壤形态", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "地球化学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "地球物理学", 
+                            "children": [
+                                {
+                                    "name": "大地测量学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "地震学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "水文", 
+                            "children": [
+                                {
+                                    "name": "水文学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "水文地质", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "气象学", 
+                            "children": [
+                                {
+                                    "name": "水文气象学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "农业气象学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "生物气象学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "森林气象学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "微气象学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "海洋学", 
+                            "children": [
+                                {
+                                    "name": "化学海洋学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "海洋渔业", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "物理海洋学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "古生物学", 
+                            "children": [
+                                {
+                                    "name": "孢粉学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "地理学", 
+                    "children": [
+                        {
+                            "name": "测绘学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "自然地理学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生物地理学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "经济地理", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "政治地理学", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "水产科学", 
+                    "children": [
+                        {
+                            "name": "海洋科学", 
+                            "children": [
+                                {
+                                    "name": "海洋学", 
+                                    "children": [
+                                        {
+                                            "name": "化学海洋学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "海洋渔业", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "物理海洋学", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "湖沼学", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "食品科学", 
+                    "children": [
+                        {
+                            "name": "酿酒学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "美食", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "植物科学", 
+                    "children": [
+                        {
+                            "name": "植物学", 
+                            "children": [
+                                {
+                                    "name": "植物病理学", 
+                                    "children": [
+                                        {
+                                            "name": "种子病理学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "森林病理学", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "草本学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "藻类学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "苔藓植物学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "真菌学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "人类植物学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "医学科学", 
+                    "children": [
+                        {
+                            "name": "药理学", 
+                            "children": [
+                                {
+                                    "name": "药效学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "药物动力学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "产科", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "寄生虫学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "病理学", 
+                            "children": [
+                                {
+                                    "name": "动物病理学", 
+                                    "children": [
+                                        {
+                                            "name": "昆虫病理学", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "人类病理学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "免疫病理", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "组织病理学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "皮肤病学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "内分泌学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "老年病学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "血液学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "肿瘤学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "整形外科", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "男科学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "神经外科", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "流行病学", 
+                            "children": [
+                                {
+                                    "name": "疾病监测", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "流行", 
+                                    "children": [
+                                        {
+                                            "name": "传染病之一", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "植物流行病", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "流行", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "毒理学", 
+                    "children": [
+                        {
+                            "name": "生态毒理学", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "分类", 
+                    "children": [
+                        {
+                            "name": "生物分类学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生化分类", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "细胞分类学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "免疫分类学", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "计算机科学", 
+                    "children": [
+                        {
+                            "name": "人工智能", 
+                            "children": [
+                                {
+                                    "name": "机器学习", 
+                                    "children": [
+                                        {
+                                            "name": "本体学习", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "数据挖掘", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "类型学", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "图书馆科学", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "社会科学", 
+                    "children": [
+                        {
+                            "name": "经济学", 
+                            "children": [
+                                {
+                                    "name": "贸易", 
+                                    "children": [
+                                        {
+                                            "name": "物物交换", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "国内贸易", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "农产品贸易", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "电子商务", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "私人贸易", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "林产品贸易", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "采购", 
+                                            "children": [
+                                                {
+                                                    "name": "合作采购", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "强迫出售", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "国际贸易", 
+                                            "children": [
+                                                {
+                                                    "name": "转口贸易", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "国际贸易促进", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "对外贸易", 
+                                            "children": [
+                                                {
+                                                    "name": "出口", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "进口", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "公平贸易", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "福利经济学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "农业经济学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "宏观经济学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "微观经济学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "土地经济学", 
+                                    "children": [
+                                        {
+                                            "name": "土地投机", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "生产经济学", 
+                                    "children": [
+                                        {
+                                            "name": "供应链", 
+                                            "children": [
+                                                {
+                                                    "name": "食品供应链", 
+                                                    "children": [
+                                                        {
+                                                            "name": "城乡食品供应链", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "饲料供应链", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "经济理论", 
+                                    "children": [
+                                        {
+                                            "name": "凯恩斯主义经济学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "马克思主义经济学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "新古典经济学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "古典经济学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "发展理论", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "平衡理论", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "经济增长理论", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "位置的理论", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "租金理论", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "价值理论", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "农村经济", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "经济一体化", 
+                                    "children": [
+                                        {
+                                            "name": "横向一体化", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "垂直整合", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "渔业经济", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "林业经济", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "环境经济学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "生物经济学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "历史", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "社会学", 
+                            "children": [
+                                {
+                                    "name": "社会结构", 
+                                    "children": [
+                                        {
+                                            "name": "婚姻", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "社会阶层", 
+                                            "children": [
+                                                {
+                                                    "name": "统治阶级", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "中产阶级", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "上层阶级", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "女性的角色", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "社会制度", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "性别", 
+                                            "children": [
+                                                {
+                                                    "name": "男人", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "女人", 
+                                                    "children": [
+                                                        {
+                                                            "name": "孕妇", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "chieftancies", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "领导", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "经济社会学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "农村社会学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "人口统计学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "心理学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "政治科学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "语言学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "人类学", 
+                            "children": [
+                                {
+                                    "name": "社会人类学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "农业科学", 
+                    "children": [
+                        {
+                            "name": "农学", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "物理科学", 
+                    "children": [
+                        {
+                            "name": "化学", 
+                            "children": [
+                                {
+                                    "name": "地球化学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "大气化学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "生物化学", 
+                                    "children": [
+                                        {
+                                            "name": "植物化学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "免疫化学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "细胞化学", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "分析化学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "土壤化学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "天文学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "物理", 
+                            "children": [
+                                {
+                                    "name": "地球物理学", 
+                                    "children": [
+                                        {
+                                            "name": "大地测量学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "地震学", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "大气物理学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "电子产品", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "生物物理学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "流变学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "力学", 
+                                    "children": [
+                                        {
+                                            "name": "土力学", 
+                                            "children": [
+                                                {
+                                                    "name": "土开裂", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "土动力学", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "流体力学", 
+                                            "children": [
+                                                {
+                                                    "name": "流体流动", 
+                                                    "children": [
+                                                        {
+                                                            "name": "空气流", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "岩石力学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "运动学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "动力学", 
+                                            "children": [
+                                                {
+                                                    "name": "流体动力学", 
+                                                    "children": [
+                                                        {
+                                                            "name": "铃动力学", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "振动", 
+                                            "children": [
+                                                {
+                                                    "name": "声音", 
+                                                    "children": [
+                                                        {
+                                                            "name": "超声波", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "超声学", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "声学", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "核物理", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "土壤物理学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "自然科学", 
+                    "children": [
+                        {
+                            "name": "大气科学", 
+                            "children": [
+                                {
+                                    "name": "气象学", 
+                                    "children": [
+                                        {
+                                            "name": "水文气象学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "农业气象学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "生物气象学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "森林气象学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "微气象学", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "气候学", 
+                                    "children": [
+                                        {
+                                            "name": "水文气候学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "古气候学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "生物气候学", 
+                                            "children": [
+                                                {
+                                                    "name": "phytoclimatology", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "古气候学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "农业气象学", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "生命科学", 
+                            "children": [
+                                {
+                                    "name": "生物学", 
+                                    "children": [
+                                        {
+                                            "name": "放射生物学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "水生生物学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "土壤生物学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "林业生物", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "动物学", 
+                                            "children": [
+                                                {
+                                                    "name": "原生动物学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "寄生虫学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "昆虫学", 
+                                                    "children": [
+                                                        {
+                                                            "name": "应用昆虫学", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "acridology", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "蚁学", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "爬虫学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "软体动物学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "哺乳动物学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "蜱螨学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "动物行为学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "鸟类学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "鱼类学", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "生物信息学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "寄生虫学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "植物学", 
+                                            "children": [
+                                                {
+                                                    "name": "植物病理学", 
+                                                    "children": [
+                                                        {
+                                                            "name": "种子病理学", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "森林病理学", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "草本学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "藻类学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "苔藓植物学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "真菌学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "人类植物学", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "细胞学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "海洋生物学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "渔业生物学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "微生物学", 
+                                            "children": [
+                                                {
+                                                    "name": "细菌学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "病毒学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "工业微生物学", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "自然历史", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "动物生物学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "胚胎学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "生理学", 
+                                            "children": [
+                                                {
+                                                    "name": "细胞生理学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "生殖生理", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "神经生理学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "人类生理", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "发育生理学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "动物生理学", 
+                                                    "children": [
+                                                        {
+                                                            "name": "动物营养运输", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "植物生理学", 
+                                                    "children": [
+                                                        {
+                                                            "name": "易位", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "根导", 
+                                                                    "children": [ ]
+                                                                }, 
+                                                                {
+                                                                    "name": "根系导水率", 
+                                                                    "children": [ ]
+                                                                }, 
+                                                                {
+                                                                    "name": "营养物质运输", 
+                                                                    "children": [ ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "乙烯生产", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "植物响应", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "离层", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "落叶", 
+                                                                    "children": [ ]
+                                                                }
+                                                            ]
+                                                        }, 
+                                                        {
+                                                            "name": "根压", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "采后生理", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "解剖学", 
+                                            "children": [
+                                                {
+                                                    "name": "病理解剖学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "动物解剖学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "组织学", 
+                                                    "children": [
+                                                        {
+                                                            "name": "动物组织学", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "植物组织学", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "组织形态学", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "植物解剖学", 
+                                                    "children": [
+                                                        {
+                                                            "name": "木材解剖学", 
+                                                            "children": [
+                                                                {
+                                                                    "name": "年轮", 
+                                                                    "children": [ ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "形态", 
+                                            "children": [
+                                                {
+                                                    "name": "动物的形态", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "植物形态学", 
+                                                    "children": [
+                                                        {
+                                                            "name": "真菌形态", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "人种生物学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "遗传学", 
+                                            "children": [
+                                                {
+                                                    "name": "细胞遗传学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "免疫遗传学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "分子遗传学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "线粒体基因", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "群体遗传学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "数量遗传学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "植物遗传学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "动物遗传学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "综合遗传学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "基因组学", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "空间生物学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "免疫学", 
+                                            "children": [
+                                                {
+                                                    "name": "免疫化学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "血清学", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "分子生物学", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "古生物学", 
+                                            "children": [
+                                                {
+                                                    "name": "孢粉学", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "生态学", 
+                                            "children": [
+                                                {
+                                                    "name": "放射生态学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "海洋生态", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "动物生态学", 
+                                                    "children": [
+                                                        {
+                                                            "name": "human-wildlife关系", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "环境生态学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "森林生态", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "淡水生态学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "人类生态学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "群落生态学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "微生物生态学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "火灾生态学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "辐射生态学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "种群生态学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "化学生态学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "农业生态学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "物候学", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "植物生态学", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "正式的科学", 
+                    "children": [
+                        {
+                            "name": "逻辑的", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "数学", 
+                            "children": [
+                                {
+                                    "name": "几何", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "统计学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "兽医学", 
+                    "children": [
+                        {
+                            "name": "兽医", 
+                            "children": [
+                                {
+                                    "name": "兽医牙科", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "行为科学", 
+                    "children": [
+                        {
+                            "name": "管理科学", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "环境科学", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "法医科学", 
+                    "children": [
+                        {
+                            "name": "兽医取证", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "工程学", 
+                    "children": [
+                        {
+                            "name": "人体工程学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "本体工程", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "土木工程", 
+                            "children": [
+                                {
+                                    "name": "结构", 
+                                    "children": [
+                                        {
+                                            "name": "道路建设", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "建筑施工", 
+                                            "children": [
+                                                {
+                                                    "name": "玻璃", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "好施工", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "电气工程", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "水利工程", 
+                            "children": [
+                                {
+                                    "name": "农业水力学", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "机械工程", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "农业工程", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "化学工程", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "电子工程", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "环境工程", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生化工程", 
+                            "children": [
+                                {
+                                    "name": "酶工程", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "林业", 
+                    "children": [
+                        {
+                            "name": "林业业务", 
+                            "children": [
+                                {
+                                    "name": "下的树枝", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "削减", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "木材的主要转换", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "搬运", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "削减处理", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "森林产品推导", 
+                                    "children": [
+                                        {
+                                            "name": "日志记录", 
+                                            "children": [
+                                                {
+                                                    "name": "感觉", 
+                                                    "children": [
+                                                        {
+                                                            "name": "酸的感觉", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "grub感觉", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "改进的感觉", 
+                                                            "children": [ ]
+                                                        }, 
+                                                        {
+                                                            "name": "再生感觉", 
+                                                            "children": [ ]
+                                                        }
+                                                    ]
+                                                }, 
+                                                {
+                                                    "name": "长度日志", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "shortwood日志", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "树长日志", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "整个树日志", 
+                                                    "children": [ ]
+                                                }, 
+                                                {
+                                                    "name": "非法采伐", 
+                                                    "children": [ ]
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                            "name": "矮林作业", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "造林", 
+                            "children": [
+                                {
+                                    "name": "密集的造林", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "再生", 
+                                    "children": [
+                                        {
+                                            "name": "人工再生", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "自然再生", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "协助自然再生", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "病因学", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "信息科学", 
+                    "children": [
+                        {
+                            "name": "测绘学", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "生物信息学", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "人文学科", 
+            "children": [
+                {
+                    "name": "宗教", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "语言", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "法律", 
+                    "children": [
+                        {
+                            "name": "判例法", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "普通法", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "海洋法", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "习惯法", 
+                            "children": [
+                                {
+                                    "name": "的土地权利", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "水的法律", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "民法", 
+                            "children": [
+                                {
+                                    "name": "责任", 
+                                    "children": [
+                                        {
+                                            "name": "法律责任", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "商法", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "国际法", 
+                            "children": [
+                                {
+                                    "name": "海洋法", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "海事法", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "编纂", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "常见的权利", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "森林法则", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "成文法", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "渔业法律", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "伊斯兰律法", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "艺术", 
+                    "children": [
+                        {
+                            "name": "表演艺术", 
+                            "children": [
+                                {
+                                    "name": "音乐", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "视觉艺术", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "文学", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "哲学", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "制图学", 
+            "children": [
+                {
+                    "name": "土地覆盖图", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "土地使用映射", 
+                    "children": [
+                        {
+                            "name": "森林土地使用映射", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "周长(土地)", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "比例尺", 
+                    "children": [ ]
+                }
+            ]
+        }
+    ]
+}

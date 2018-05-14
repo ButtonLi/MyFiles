@@ -1,0 +1,347 @@
+{
+    "name": "阶段", 
+    "children": [
+        {
+            "name": "生命周期", 
+            "children": [ ]
+        }, 
+        {
+            "name": "发展阶段", 
+            "children": [
+                {
+                    "name": "动物的发展阶段", 
+                    "children": [
+                        {
+                            "name": "青春期(动物)", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "沉思的", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "龄", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "postlarval阶段", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "preruminant阶段", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "断奶期", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "幼虫阶段", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "胎儿阶段", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "蛹的阶段", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "昆虫生长形式", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "成虫", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "泌乳阶段", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "妊娠期", 
+                            "children": [
+                                {
+                                    "name": "干旱时期", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "产褥期", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "产期", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "蛹", 
+                            "children": [
+                                {
+                                    "name": "prepupae", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "幼虫", 
+                            "children": [
+                                {
+                                    "name": "小鱼", 
+                                    "children": [
+                                        {
+                                            "name": "ammocetes", 
+                                            "children": [ ]
+                                        }, 
+                                        {
+                                            "name": "小鱼", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "仙女", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "毛毛虫", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "幼虫", 
+                                    "children": [
+                                        {
+                                            "name": "白色食物", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "蛆虫", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "黄粉虱", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "preweaning时期", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "植物发育阶段", 
+                    "children": [
+                        {
+                            "name": "加油", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "裂开", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "种子填充", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "分支", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "发芽", 
+                            "children": [
+                                {
+                                    "name": "发芽的种子", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "开花", 
+                            "children": [
+                                {
+                                    "name": "诱导开花", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "螺栓", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "标题", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "茎伸长", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "芽开始", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "果期", 
+                            "children": [
+                                {
+                                    "name": "种子集", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "单性结实", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "营养生长期", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "不成熟的植物", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "芽的形成", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "开花的阶段", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "圆锥花序起始阶段", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "孕穗期", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "乳白色的阶段", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "出现", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "长出新芽", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "发芽", 
+                            "children": [
+                                {
+                                    "name": "花粉萌发", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "收获前的萌芽", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "种子发芽", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "孢子萌发", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "孢子形成", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "营养阶段", 
+                    "children": [
+                        {
+                            "name": "营养滞后阶段", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "移植阶段", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "苗期", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "生殖阶段", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "幼年期", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "受精卵阶段", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "胚胎期", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "成熟阶段", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "人类的发展阶段", 
+                    "children": [
+                        {
+                            "name": "青春期(人类)", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "经济增长周期", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "成熟", 
+                    "children": [
+                        {
+                            "name": "性成熟", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "死亡", 
+                    "children": [
+                        {
+                            "name": "细胞死亡", 
+                            "children": [
+                                {
+                                    "name": "坏死", 
+                                    "children": [
+                                        {
+                                            "name": "细胞凋亡", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

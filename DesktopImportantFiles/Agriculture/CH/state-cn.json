@@ -1,0 +1,695 @@
+{
+    "name": "状态", 
+    "children": [
+        {
+            "name": "劳动力短缺", 
+            "children": [ ]
+        }, 
+        {
+            "name": "孕妇", 
+            "children": [ ]
+        }, 
+        {
+            "name": "胶态", 
+            "children": [ ]
+        }, 
+        {
+            "name": "供给平衡", 
+            "children": [
+                {
+                    "name": "短缺", 
+                    "children": [
+                        {
+                            "name": "粮食短缺", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "供给对价格", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "要求", 
+                    "children": [
+                        {
+                            "name": "能源需求", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "自给自足", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "供应", 
+                    "children": [
+                        {
+                            "name": "工业供应", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "食品供应", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "盈余", 
+                    "children": [
+                        {
+                            "name": "食物盈余", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "库存", 
+                    "children": [
+                        {
+                            "name": "缓冲库存", 
+                            "children": [
+                                {
+                                    "name": "谷物银行", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "粮食储备", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "queenlessness", 
+            "children": [ ]
+        }, 
+        {
+            "name": "内稳态", 
+            "children": [
+                {
+                    "name": "酸碱平衡", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "国籍", 
+            "children": [ ]
+        }, 
+        {
+            "name": "福利", 
+            "children": [
+                {
+                    "name": "动物福利", 
+                    "children": [
+                        {
+                            "name": "宠物护理", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "社会福利", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "应力", 
+            "children": [
+                {
+                    "name": "冷应激", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "渗透压力", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "氧化应激", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "热应力", 
+                    "children": [
+                        {
+                            "name": "中暑", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "干旱胁迫", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "非生物胁迫", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生物压力", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "约束", 
+            "children": [ ]
+        }, 
+        {
+            "name": "就业", 
+            "children": [
+                {
+                    "name": "从农场就业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "不充分就业", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "失业", 
+                    "children": [
+                        {
+                            "name": "隐蔽性失业", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "农业失业", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "农村失业", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "结构性失业", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "职业的变化", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "健康", 
+            "children": [
+                {
+                    "name": "心理健康", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "职业健康", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生殖健康", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "动物健康", 
+                    "children": [
+                        {
+                            "name": "乳房健康", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "森林健康", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "公共卫生", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "卫生", 
+            "children": [
+                {
+                    "name": "乳制品卫生", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "兽医卫生", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "食品卫生", 
+                    "children": [
+                        {
+                            "name": "肉类卫生", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "安全", 
+            "children": [
+                {
+                    "name": "安全工作", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "海上安全", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "灾害预防", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "生物安全", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "事故预防", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "水不足", 
+            "children": [ ]
+        }, 
+        {
+            "name": "间情期", 
+            "children": [ ]
+        }, 
+        {
+            "name": "缺氧", 
+            "children": [ ]
+        }, 
+        {
+            "name": "局部贫血", 
+            "children": [
+                {
+                    "name": "心肌缺血", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "麻醉", 
+            "children": [ ]
+        }, 
+        {
+            "name": "营养状况", 
+            "children": [
+                {
+                    "name": "饥饿", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "流动性", 
+            "children": [ ]
+        }, 
+        {
+            "name": "退休", 
+            "children": [ ]
+        }, 
+        {
+            "name": "载体状态", 
+            "children": [
+                {
+                    "name": "无症状的载体状态", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "圈养", 
+            "children": [ ]
+        }, 
+        {
+            "name": "人口压力", 
+            "children": [ ]
+        }, 
+        {
+            "name": "遗传平衡", 
+            "children": [ ]
+        }, 
+        {
+            "name": "防灾", 
+            "children": [ ]
+        }, 
+        {
+            "name": "工厂条件", 
+            "children": [ ]
+        }, 
+        {
+            "name": "经济形势", 
+            "children": [
+                {
+                    "name": "农业形势", 
+                    "children": [
+                        {
+                            "name": "农业危机", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "财务状况", 
+            "children": [
+                {
+                    "name": "农场债务", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "特定的病原体自由州", 
+            "children": [ ]
+        }, 
+        {
+            "name": "物理状态", 
+            "children": [
+                {
+                    "name": "乳剂", 
+                    "children": [
+                        {
+                            "name": "纳米乳", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "固体", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "分散", 
+                    "children": [
+                        {
+                            "name": "气溶胶", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "胶体", 
+                            "children": [
+                                {
+                                    "name": "凝胶", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "液体", 
+                    "children": [
+                        {
+                            "name": "气体", 
+                            "children": [
+                                {
+                                    "name": "空气", 
+                                    "children": [
+                                        {
+                                            "name": "土壤空气", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "温室气体", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "水蒸气", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "废气", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "液体", 
+                            "children": [
+                                {
+                                    "name": "下降", 
+                                    "children": [
+                                        {
+                                            "name": "采后下降", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }, 
+                                {
+                                    "name": "麦芽汁", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "渗滤液", 
+                                    "children": [
+                                        {
+                                            "name": "垃圾填埋场渗滤液", 
+                                            "children": [ ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "解决方案", 
+                    "children": [
+                        {
+                            "name": "土壤溶液", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "福尔马林", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "营养解决方案", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "配方", 
+                    "children": [
+                        {
+                            "name": "粉末", 
+                            "children": [
+                                {
+                                    "name": "水分散粉末", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "颗粒", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "喷雾", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "肥料配方", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "农药剂型", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "加工成", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "固体制剂", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "液体配方", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "能乳化的集中", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "气体配方", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "球团矿", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "泡沫", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "解决方案", 
+                            "children": [
+                                {
+                                    "name": "土壤溶液", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "福尔马林", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "营养解决方案", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "饲料配方", 
+                            "children": [ ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "紧急情况", 
+            "children": [ ]
+        }, 
+        {
+            "name": "饱腹感", 
+            "children": [ ]
+        }, 
+        {
+            "name": "清醒", 
+            "children": [ ]
+        }, 
+        {
+            "name": "营养平衡", 
+            "children": [ ]
+        }, 
+        {
+            "name": "身体条件", 
+            "children": [
+                {
+                    "name": "肥胖", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "超重", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "瘦", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "营养平衡(植物)", 
+            "children": [ ]
+        }, 
+        {
+            "name": "农村的条件", 
+            "children": [ ]
+        }, 
+        {
+            "name": "社会条件", 
+            "children": [
+                {
+                    "name": "的生活质量", 
+                    "children": [
+                        {
+                            "name": "工作条件", 
+                            "children": [
+                                {
+                                    "name": "劳动关系", 
+                                    "children": [ ]
+                                }, 
+                                {
+                                    "name": "工作满意度", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "生活水平", 
+                    "children": [
+                        {
+                            "name": "贫穷", 
+                            "children": [
+                                {
+                                    "name": "农村贫困", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "大自然的平衡", 
+            "children": [ ]
+        }, 
+        {
+            "name": "休眠", 
+            "children": [
+                {
+                    "name": "度夏", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "冬眠", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "滞育", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "种子休眠", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "芽休眠", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "低湿休眠", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "休息", 
+            "children": [ ]
+        }, 
+        {
+            "name": "睡眠", 
+            "children": [ ]
+        }, 
+        {
+            "name": "昏迷", 
+            "children": [ ]
+        }
+    ]
+}

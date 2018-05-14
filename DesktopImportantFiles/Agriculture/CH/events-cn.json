@@ -1,0 +1,89 @@
+{
+    "name": "事件", 
+    "children": [
+        {
+            "name": "节目", 
+            "children": [
+                {
+                    "name": "扩展项目", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "援助项目", 
+                    "children": [
+                        {
+                            "name": "灾难恢复", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "救灾", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "发展援助", 
+                            "children": [
+                                {
+                                    "name": "技术援助", 
+                                    "children": [ ]
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "紧急救援", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "粮食援助", 
+                            "children": [ ]
+                        }, 
+                        {
+                            "name": "EMPRES", 
+                            "children": [ ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "研究项目", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "人口计划", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "培训项目", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "发展规划", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "教育课程", 
+            "children": [ ]
+        }, 
+        {
+            "name": "研讨会", 
+            "children": [ ]
+        }, 
+        {
+            "name": "展览", 
+            "children": [
+                {
+                    "name": "农业节目", 
+                    "children": [ ]
+                }, 
+                {
+                    "name": "贸易展览会", 
+                    "children": [ ]
+                }
+            ]
+        }, 
+        {
+            "name": "培训课程", 
+            "children": [ ]
+        }
+    ]
+}
